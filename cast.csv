@@ -1,0 +1,3197 @@
+cast_id,title_id,actor_name,role_type
+1,t0001,Ken Watanabe,Supporting
+2,t0001,Tom Hanks,Lead
+3,t0002,Adam Driver,Lead
+4,t0002,Mahershala Ali,Supporting
+5,t0002,Florence Pugh,Supporting
+6,t0002,Javier Bardem,Supporting
+7,t0002,Marion Cotillard,Lead
+8,t0003,Ken Watanabe,Supporting
+9,t0003,Penélope Cruz,Lead
+10,t0003,Nawazuddin Siddiqui,Supporting
+11,t0003,Adam Driver,Supporting
+12,t0003,Mahershala Ali,Supporting
+13,t0004,Regé-Jean Page,Supporting
+14,t0004,Zendaya,Supporting
+15,t0005,Timothée Chalamet,Supporting
+16,t0005,Jason Momoa,Lead
+17,t0005,Gong Yoo,Supporting
+18,t0005,Adam Driver,Lead
+19,t0005,Song Kang-ho,Supporting
+20,t0005,Florence Pugh,Lead
+21,t0006,Florence Pugh,Supporting
+22,t0006,Timothée Chalamet,Supporting
+23,t0006,Ken Watanabe,Supporting
+24,t0006,Javier Bardem,Supporting
+25,t0007,Rami Malek,Lead
+26,t0007,Oscar Isaac,Supporting
+27,t0007,Cate Blanchett,Supporting
+28,t0007,Idris Elba,Supporting
+29,t0008,Awkwafina,Lead
+30,t0008,Millie Bobby Brown,Supporting
+31,t0008,Ryan Gosling,Supporting
+32,t0008,Lee Jung-jae,Lead
+33,t0008,Song Kang-ho,Supporting
+34,t0008,Javier Bardem,Supporting
+35,t0009,Tessa Thompson,Lead
+36,t0009,Penélope Cruz,Lead
+37,t0009,Millie Bobby Brown,Lead
+38,t0009,Shah Rukh Khan,Supporting
+39,t0009,Zendaya,Supporting
+40,t0010,John Boyega,Supporting
+41,t0010,Denzel Washington,Supporting
+42,t0011,Adam Driver,Supporting
+43,t0011,Cate Blanchett,Supporting
+44,t0011,Florence Pugh,Supporting
+45,t0012,Marion Cotillard,Lead
+46,t0012,Penélope Cruz,Supporting
+47,t0013,Nawazuddin Siddiqui,Supporting
+48,t0013,Jason Momoa,Supporting
+49,t0013,Gal Gadot,Supporting
+50,t0013,Anya Taylor-Joy,Supporting
+51,t0013,Bae Doona,Supporting
+52,t0014,Viola Davis,Lead
+53,t0014,Zendaya,Supporting
+54,t0014,Marion Cotillard,Supporting
+55,t0014,Meryl Streep,Supporting
+56,t0014,Florence Pugh,Lead
+57,t0014,Song Kang-ho,Supporting
+58,t0015,Awkwafina,Lead
+59,t0015,Tessa Thompson,Supporting
+60,t0015,Anya Taylor-Joy,Supporting
+61,t0016,Javier Bardem,Supporting
+62,t0016,Tom Hanks,Supporting
+63,t0016,Song Kang-ho,Supporting
+64,t0016,Nawazuddin Siddiqui,Supporting
+65,t0016,Jason Momoa,Supporting
+66,t0017,Saoirse Ronan,Lead
+67,t0017,John Boyega,Supporting
+68,t0017,Jason Momoa,Lead
+69,t0017,Timothée Chalamet,Lead
+70,t0017,Gong Yoo,Lead
+71,t0017,Lupita Nyong'o,Lead
+72,t0018,Bae Doona,Lead
+73,t0018,Priyanka Chopra,Supporting
+74,t0019,Adam Driver,Supporting
+75,t0019,Penélope Cruz,Supporting
+76,t0019,Oscar Isaac,Supporting
+77,t0019,Regé-Jean Page,Lead
+78,t0020,Shah Rukh Khan,Supporting
+79,t0020,Ken Watanabe,Supporting
+80,t0020,Gal Gadot,Supporting
+81,t0020,Awkwafina,Supporting
+82,t0021,Gal Gadot,Lead
+83,t0021,Deepika Padukone,Supporting
+84,t0021,Javier Bardem,Supporting
+85,t0021,Millie Bobby Brown,Supporting
+86,t0021,John Boyega,Supporting
+87,t0022,Nawazuddin Siddiqui,Supporting
+88,t0022,Oscar Isaac,Supporting
+89,t0022,Lee Jung-jae,Supporting
+90,t0023,Jason Momoa,Supporting
+91,t0023,Meryl Streep,Supporting
+92,t0023,Denzel Washington,Supporting
+93,t0023,Gong Yoo,Supporting
+94,t0023,Rami Malek,Supporting
+95,t0024,Rami Malek,Supporting
+96,t0024,Bae Doona,Supporting
+97,t0024,Regé-Jean Page,Supporting
+98,t0025,Adam Driver,Supporting
+99,t0025,Millie Bobby Brown,Supporting
+100,t0025,Rami Malek,Supporting
+101,t0025,Jason Momoa,Lead
+102,t0025,Aishwarya Rai,Supporting
+103,t0025,Viola Davis,Supporting
+104,t0026,Oscar Isaac,Lead
+105,t0026,Anya Taylor-Joy,Supporting
+106,t0027,Denzel Washington,Lead
+107,t0027,Bae Doona,Supporting
+108,t0028,Rami Malek,Lead
+109,t0028,Lee Jung-jae,Supporting
+110,t0029,Lee Jung-jae,Supporting
+111,t0029,Oscar Isaac,Supporting
+112,t0029,Ken Watanabe,Supporting
+113,t0030,Rami Malek,Supporting
+114,t0030,Awkwafina,Supporting
+115,t0030,Deepika Padukone,Lead
+116,t0030,Ken Watanabe,Supporting
+117,t0031,Saoirse Ronan,Supporting
+118,t0031,Marion Cotillard,Supporting
+119,t0031,Ken Watanabe,Lead
+120,t0031,Anya Taylor-Joy,Supporting
+121,t0031,Jason Momoa,Lead
+122,t0032,Oscar Isaac,Supporting
+123,t0032,Ken Watanabe,Supporting
+124,t0032,Shah Rukh Khan,Supporting
+125,t0032,Penélope Cruz,Supporting
+126,t0033,Zendaya,Lead
+127,t0033,Regé-Jean Page,Supporting
+128,t0033,Florence Pugh,Supporting
+129,t0033,Nawazuddin Siddiqui,Lead
+130,t0034,John Boyega,Supporting
+131,t0034,Lupita Nyong'o,Lead
+132,t0034,Awkwafina,Supporting
+133,t0034,Bae Doona,Supporting
+134,t0034,Anya Taylor-Joy,Supporting
+135,t0035,Cate Blanchett,Supporting
+136,t0035,Priyanka Chopra,Lead
+137,t0035,Emma Stone,Lead
+138,t0035,Oscar Isaac,Supporting
+139,t0035,John Boyega,Supporting
+140,t0036,Idris Elba,Supporting
+141,t0036,Meryl Streep,Supporting
+142,t0036,Rami Malek,Supporting
+143,t0036,Timothée Chalamet,Supporting
+144,t0036,Adam Driver,Supporting
+145,t0036,Lee Jung-jae,Supporting
+146,t0037,Ken Watanabe,Supporting
+147,t0037,Viola Davis,Lead
+148,t0038,Ken Watanabe,Supporting
+149,t0038,Nawazuddin Siddiqui,Supporting
+150,t0039,Rami Malek,Lead
+151,t0039,Marion Cotillard,Lead
+152,t0039,Ken Watanabe,Supporting
+153,t0039,Song Kang-ho,Supporting
+154,t0039,Oscar Isaac,Supporting
+155,t0040,Tessa Thompson,Supporting
+156,t0040,Song Kang-ho,Supporting
+157,t0040,Tom Hanks,Lead
+158,t0041,Oscar Isaac,Supporting
+159,t0041,Ryan Gosling,Supporting
+160,t0042,Shah Rukh Khan,Supporting
+161,t0042,Zendaya,Supporting
+162,t0042,Deepika Padukone,Lead
+163,t0043,Deepika Padukone,Supporting
+164,t0043,Florence Pugh,Supporting
+165,t0043,Marion Cotillard,Lead
+166,t0044,Lee Jung-jae,Supporting
+167,t0044,Jason Momoa,Lead
+168,t0044,Emma Stone,Lead
+169,t0045,Awkwafina,Supporting
+170,t0045,Florence Pugh,Supporting
+171,t0045,Tom Hanks,Supporting
+172,t0045,Lee Jung-jae,Supporting
+173,t0046,Shah Rukh Khan,Supporting
+174,t0046,Song Kang-ho,Supporting
+175,t0046,Penélope Cruz,Supporting
+176,t0047,Lupita Nyong'o,Supporting
+177,t0047,Marion Cotillard,Lead
+178,t0048,Shah Rukh Khan,Supporting
+179,t0048,Cate Blanchett,Supporting
+180,t0048,Rami Malek,Lead
+181,t0048,Gal Gadot,Lead
+182,t0049,Millie Bobby Brown,Lead
+183,t0049,Lee Jung-jae,Supporting
+184,t0049,Anya Taylor-Joy,Supporting
+185,t0050,Lupita Nyong'o,Supporting
+186,t0050,Denzel Washington,Lead
+187,t0051,Deepika Padukone,Supporting
+188,t0051,Regé-Jean Page,Supporting
+189,t0051,Meryl Streep,Lead
+190,t0051,Denzel Washington,Lead
+191,t0052,Bae Doona,Supporting
+192,t0052,Oscar Isaac,Supporting
+193,t0052,Marion Cotillard,Supporting
+194,t0053,Regé-Jean Page,Supporting
+195,t0053,Awkwafina,Supporting
+196,t0053,Adam Driver,Supporting
+197,t0054,Marion Cotillard,Supporting
+198,t0054,Pedro Pascal,Supporting
+199,t0054,Priyanka Chopra,Lead
+200,t0054,Tom Hanks,Supporting
+201,t0054,Ken Watanabe,Lead
+202,t0055,Mahershala Ali,Supporting
+203,t0055,Jason Momoa,Supporting
+204,t0056,Aishwarya Rai,Supporting
+205,t0056,Song Kang-ho,Supporting
+206,t0056,Gal Gadot,Lead
+207,t0056,Gong Yoo,Supporting
+208,t0056,Anya Taylor-Joy,Lead
+209,t0057,Awkwafina,Lead
+210,t0057,Lupita Nyong'o,Supporting
+211,t0057,Gong Yoo,Supporting
+212,t0057,Florence Pugh,Supporting
+213,t0058,Ken Watanabe,Supporting
+214,t0058,Deepika Padukone,Supporting
+215,t0058,Priyanka Chopra,Supporting
+216,t0059,Lupita Nyong'o,Supporting
+217,t0059,Lee Jung-jae,Supporting
+218,t0059,Viola Davis,Lead
+219,t0059,Marion Cotillard,Supporting
+220,t0059,Bae Doona,Lead
+221,t0059,Denzel Washington,Supporting
+222,t0060,Zendaya,Supporting
+223,t0060,Javier Bardem,Supporting
+224,t0060,Adam Driver,Lead
+225,t0061,Penélope Cruz,Supporting
+226,t0061,Florence Pugh,Lead
+227,t0061,Rami Malek,Lead
+228,t0061,Priyanka Chopra,Supporting
+229,t0061,Jason Momoa,Supporting
+230,t0062,Nawazuddin Siddiqui,Lead
+231,t0062,Ryan Gosling,Supporting
+232,t0062,John Boyega,Supporting
+233,t0063,Meryl Streep,Lead
+234,t0063,Viola Davis,Lead
+235,t0063,Tom Hanks,Supporting
+236,t0063,Pedro Pascal,Supporting
+237,t0064,Deepika Padukone,Lead
+238,t0064,Javier Bardem,Supporting
+239,t0064,Millie Bobby Brown,Supporting
+240,t0065,Meryl Streep,Supporting
+241,t0065,Deepika Padukone,Supporting
+242,t0065,Penélope Cruz,Lead
+243,t0065,Tessa Thompson,Supporting
+244,t0065,Oscar Isaac,Supporting
+245,t0066,Zendaya,Supporting
+246,t0066,Deepika Padukone,Supporting
+247,t0066,Saoirse Ronan,Supporting
+248,t0066,Anya Taylor-Joy,Supporting
+249,t0067,Idris Elba,Supporting
+250,t0067,Lupita Nyong'o,Lead
+251,t0068,Marion Cotillard,Supporting
+252,t0068,Timothée Chalamet,Supporting
+253,t0068,Aishwarya Rai,Lead
+254,t0068,Zendaya,Supporting
+255,t0069,Saoirse Ronan,Supporting
+256,t0069,Meryl Streep,Supporting
+257,t0070,Bae Doona,Supporting
+258,t0070,Meryl Streep,Supporting
+259,t0070,Zendaya,Lead
+260,t0070,Song Kang-ho,Lead
+261,t0070,Saoirse Ronan,Lead
+262,t0071,Shah Rukh Khan,Supporting
+263,t0071,Tessa Thompson,Supporting
+264,t0071,John Boyega,Lead
+265,t0072,Awkwafina,Lead
+266,t0072,Lee Jung-jae,Lead
+267,t0072,Gal Gadot,Supporting
+268,t0072,Anya Taylor-Joy,Supporting
+269,t0072,Lupita Nyong'o,Supporting
+270,t0072,Tom Hanks,Lead
+271,t0073,Marion Cotillard,Supporting
+272,t0073,Anya Taylor-Joy,Supporting
+273,t0073,Jason Momoa,Supporting
+274,t0073,Meryl Streep,Supporting
+275,t0074,Marion Cotillard,Supporting
+276,t0074,Lee Jung-jae,Lead
+277,t0074,Priyanka Chopra,Lead
+278,t0075,Tessa Thompson,Supporting
+279,t0075,Gong Yoo,Supporting
+280,t0075,Bae Doona,Supporting
+281,t0075,Meryl Streep,Lead
+282,t0075,Priyanka Chopra,Supporting
+283,t0076,Mahershala Ali,Lead
+284,t0076,Meryl Streep,Supporting
+285,t0076,Florence Pugh,Supporting
+286,t0076,Javier Bardem,Supporting
+287,t0076,Saoirse Ronan,Supporting
+288,t0076,Timothée Chalamet,Supporting
+289,t0077,Michael B. Jordan,Lead
+290,t0077,Bae Doona,Supporting
+291,t0078,Regé-Jean Page,Lead
+292,t0078,Nawazuddin Siddiqui,Supporting
+293,t0078,Gong Yoo,Lead
+294,t0078,Penélope Cruz,Supporting
+295,t0078,Florence Pugh,Supporting
+296,t0079,John Boyega,Supporting
+297,t0079,Priyanka Chopra,Supporting
+298,t0080,Adam Driver,Supporting
+299,t0080,Ryan Gosling,Supporting
+300,t0081,Jason Momoa,Lead
+301,t0081,Lee Jung-jae,Supporting
+302,t0081,Lupita Nyong'o,Supporting
+303,t0082,Penélope Cruz,Supporting
+304,t0082,Timothée Chalamet,Supporting
+305,t0082,Jason Momoa,Supporting
+306,t0082,Pedro Pascal,Supporting
+307,t0082,Nawazuddin Siddiqui,Lead
+308,t0083,Saoirse Ronan,Supporting
+309,t0083,Florence Pugh,Supporting
+310,t0083,Nawazuddin Siddiqui,Supporting
+311,t0084,Rami Malek,Supporting
+312,t0084,Emma Stone,Supporting
+313,t0084,Saoirse Ronan,Supporting
+314,t0084,Awkwafina,Supporting
+315,t0084,Millie Bobby Brown,Supporting
+316,t0085,Michael B. Jordan,Lead
+317,t0085,Bae Doona,Lead
+318,t0086,Gong Yoo,Supporting
+319,t0086,Marion Cotillard,Supporting
+320,t0087,Deepika Padukone,Supporting
+321,t0087,Saoirse Ronan,Lead
+322,t0087,Lee Jung-jae,Supporting
+323,t0087,John Boyega,Supporting
+324,t0087,Ken Watanabe,Lead
+325,t0087,Zendaya,Supporting
+326,t0088,Ken Watanabe,Supporting
+327,t0088,Awkwafina,Supporting
+328,t0089,Lee Jung-jae,Supporting
+329,t0089,Idris Elba,Supporting
+330,t0089,Cate Blanchett,Supporting
+331,t0089,Gong Yoo,Supporting
+332,t0089,Bae Doona,Supporting
+333,t0089,Oscar Isaac,Supporting
+334,t0090,Lee Jung-jae,Supporting
+335,t0090,Denzel Washington,Supporting
+336,t0090,Deepika Padukone,Lead
+337,t0090,Millie Bobby Brown,Supporting
+338,t0091,Mahershala Ali,Lead
+339,t0091,Emma Stone,Supporting
+340,t0092,Marion Cotillard,Lead
+341,t0092,Zendaya,Lead
+342,t0093,Lupita Nyong'o,Lead
+343,t0093,Saoirse Ronan,Supporting
+344,t0093,Pedro Pascal,Supporting
+345,t0093,Shah Rukh Khan,Supporting
+346,t0093,Adam Driver,Supporting
+347,t0094,Timothée Chalamet,Supporting
+348,t0094,Viola Davis,Supporting
+349,t0094,Rami Malek,Lead
+350,t0095,Zendaya,Supporting
+351,t0095,Aishwarya Rai,Lead
+352,t0096,Nawazuddin Siddiqui,Supporting
+353,t0096,Meryl Streep,Supporting
+354,t0097,Florence Pugh,Supporting
+355,t0097,Marion Cotillard,Supporting
+356,t0097,Pedro Pascal,Supporting
+357,t0098,Aishwarya Rai,Supporting
+358,t0098,Ken Watanabe,Lead
+359,t0098,Pedro Pascal,Supporting
+360,t0098,Javier Bardem,Supporting
+361,t0098,Saoirse Ronan,Supporting
+362,t0099,Javier Bardem,Supporting
+363,t0099,Cate Blanchett,Supporting
+364,t0099,Penélope Cruz,Supporting
+365,t0099,Oscar Isaac,Supporting
+366,t0099,Shah Rukh Khan,Lead
+367,t0099,Adam Driver,Supporting
+368,t0100,Oscar Isaac,Supporting
+369,t0100,Javier Bardem,Supporting
+370,t0100,Timothée Chalamet,Lead
+371,t0100,Michael B. Jordan,Supporting
+372,t0100,Penélope Cruz,Supporting
+373,t0100,Denzel Washington,Supporting
+374,t0101,Timothée Chalamet,Supporting
+375,t0101,Shah Rukh Khan,Supporting
+376,t0101,Anya Taylor-Joy,Supporting
+377,t0101,Lee Jung-jae,Supporting
+378,t0101,Tom Hanks,Lead
+379,t0102,Ryan Gosling,Lead
+380,t0102,Viola Davis,Lead
+381,t0103,Millie Bobby Brown,Supporting
+382,t0103,Shah Rukh Khan,Lead
+383,t0103,Viola Davis,Supporting
+384,t0103,Ken Watanabe,Supporting
+385,t0103,Florence Pugh,Lead
+386,t0103,Ryan Gosling,Supporting
+387,t0104,Rami Malek,Supporting
+388,t0104,Saoirse Ronan,Lead
+389,t0104,Aishwarya Rai,Lead
+390,t0104,Song Kang-ho,Lead
+391,t0104,Lupita Nyong'o,Supporting
+392,t0104,Mahershala Ali,Lead
+393,t0105,Adam Driver,Supporting
+394,t0105,Rami Malek,Supporting
+395,t0105,Shah Rukh Khan,Supporting
+396,t0105,Denzel Washington,Supporting
+397,t0105,Emma Stone,Supporting
+398,t0105,Cate Blanchett,Lead
+399,t0106,Awkwafina,Supporting
+400,t0106,Lee Jung-jae,Lead
+401,t0106,Adam Driver,Supporting
+402,t0107,Ryan Gosling,Supporting
+403,t0107,Tessa Thompson,Supporting
+404,t0107,Michael B. Jordan,Supporting
+405,t0108,Nawazuddin Siddiqui,Supporting
+406,t0108,Zendaya,Lead
+407,t0108,Florence Pugh,Supporting
+408,t0109,Ken Watanabe,Supporting
+409,t0109,Penélope Cruz,Supporting
+410,t0109,Shah Rukh Khan,Lead
+411,t0110,Michael B. Jordan,Supporting
+412,t0110,Song Kang-ho,Supporting
+413,t0110,Javier Bardem,Supporting
+414,t0110,Priyanka Chopra,Supporting
+415,t0111,Saoirse Ronan,Supporting
+416,t0111,Oscar Isaac,Supporting
+417,t0111,Lupita Nyong'o,Supporting
+418,t0111,Florence Pugh,Supporting
+419,t0111,Gong Yoo,Lead
+420,t0111,Shah Rukh Khan,Supporting
+421,t0112,Bae Doona,Lead
+422,t0112,John Boyega,Supporting
+423,t0112,Nawazuddin Siddiqui,Lead
+424,t0113,Tessa Thompson,Lead
+425,t0113,Anya Taylor-Joy,Supporting
+426,t0113,Regé-Jean Page,Supporting
+427,t0113,Saoirse Ronan,Supporting
+428,t0113,Michael B. Jordan,Lead
+429,t0114,Marion Cotillard,Supporting
+430,t0114,Tessa Thompson,Supporting
+431,t0114,Florence Pugh,Supporting
+432,t0114,Millie Bobby Brown,Supporting
+433,t0114,Deepika Padukone,Supporting
+434,t0114,Shah Rukh Khan,Supporting
+435,t0115,Song Kang-ho,Supporting
+436,t0115,Denzel Washington,Supporting
+437,t0115,Meryl Streep,Supporting
+438,t0115,Tom Hanks,Lead
+439,t0115,Deepika Padukone,Supporting
+440,t0116,Priyanka Chopra,Supporting
+441,t0116,Song Kang-ho,Lead
+442,t0116,Viola Davis,Supporting
+443,t0117,Mahershala Ali,Lead
+444,t0117,Awkwafina,Supporting
+445,t0117,Tessa Thompson,Supporting
+446,t0117,Rami Malek,Supporting
+447,t0117,Aishwarya Rai,Supporting
+448,t0117,John Boyega,Supporting
+449,t0118,Saoirse Ronan,Supporting
+450,t0118,Anya Taylor-Joy,Lead
+451,t0118,Mahershala Ali,Supporting
+452,t0118,Ken Watanabe,Supporting
+453,t0118,John Boyega,Supporting
+454,t0118,Adam Driver,Supporting
+455,t0119,Gal Gadot,Lead
+456,t0119,Millie Bobby Brown,Lead
+457,t0120,Emma Stone,Supporting
+458,t0120,Lupita Nyong'o,Supporting
+459,t0120,Nawazuddin Siddiqui,Supporting
+460,t0120,Penélope Cruz,Supporting
+461,t0120,Anya Taylor-Joy,Supporting
+462,t0121,Gal Gadot,Lead
+463,t0121,Mahershala Ali,Supporting
+464,t0121,Timothée Chalamet,Supporting
+465,t0121,Zendaya,Lead
+466,t0121,Lupita Nyong'o,Lead
+467,t0121,Deepika Padukone,Lead
+468,t0122,Tessa Thompson,Supporting
+469,t0122,Michael B. Jordan,Supporting
+470,t0122,Awkwafina,Supporting
+471,t0122,Tom Hanks,Lead
+472,t0122,John Boyega,Supporting
+473,t0122,Gal Gadot,Lead
+474,t0123,Lupita Nyong'o,Supporting
+475,t0123,Regé-Jean Page,Supporting
+476,t0123,Emma Stone,Supporting
+477,t0123,Oscar Isaac,Supporting
+478,t0123,Saoirse Ronan,Supporting
+479,t0124,Penélope Cruz,Lead
+480,t0124,Gal Gadot,Supporting
+481,t0124,Oscar Isaac,Supporting
+482,t0125,Saoirse Ronan,Supporting
+483,t0125,Deepika Padukone,Supporting
+484,t0126,Lee Jung-jae,Supporting
+485,t0126,Tom Hanks,Supporting
+486,t0126,Adam Driver,Lead
+487,t0126,Viola Davis,Supporting
+488,t0126,Idris Elba,Lead
+489,t0126,Lupita Nyong'o,Supporting
+490,t0127,Lupita Nyong'o,Supporting
+491,t0127,Bae Doona,Supporting
+492,t0127,Saoirse Ronan,Supporting
+493,t0127,Oscar Isaac,Lead
+494,t0127,Javier Bardem,Supporting
+495,t0128,Aishwarya Rai,Lead
+496,t0128,Lee Jung-jae,Lead
+497,t0128,Shah Rukh Khan,Supporting
+498,t0129,Aishwarya Rai,Supporting
+499,t0129,Awkwafina,Lead
+500,t0129,Michael B. Jordan,Supporting
+501,t0130,John Boyega,Supporting
+502,t0130,Meryl Streep,Supporting
+503,t0130,Deepika Padukone,Supporting
+504,t0130,Gal Gadot,Supporting
+505,t0130,Oscar Isaac,Lead
+506,t0131,Tessa Thompson,Supporting
+507,t0131,Viola Davis,Supporting
+508,t0131,Denzel Washington,Supporting
+509,t0131,Marion Cotillard,Supporting
+510,t0132,Marion Cotillard,Lead
+511,t0132,Song Kang-ho,Supporting
+512,t0132,Tessa Thompson,Lead
+513,t0133,Florence Pugh,Supporting
+514,t0133,Mahershala Ali,Lead
+515,t0133,Priyanka Chopra,Supporting
+516,t0133,Jason Momoa,Lead
+517,t0134,Ryan Gosling,Lead
+518,t0134,Deepika Padukone,Lead
+519,t0134,Emma Stone,Supporting
+520,t0134,Penélope Cruz,Supporting
+521,t0135,Saoirse Ronan,Supporting
+522,t0135,Ryan Gosling,Supporting
+523,t0135,Timothée Chalamet,Lead
+524,t0136,Gong Yoo,Supporting
+525,t0136,Cate Blanchett,Lead
+526,t0136,Regé-Jean Page,Supporting
+527,t0137,Emma Stone,Supporting
+528,t0137,Penélope Cruz,Lead
+529,t0137,Tom Hanks,Supporting
+530,t0137,Song Kang-ho,Supporting
+531,t0137,Rami Malek,Lead
+532,t0138,Rami Malek,Supporting
+533,t0138,Ryan Gosling,Supporting
+534,t0138,Marion Cotillard,Supporting
+535,t0138,Ken Watanabe,Supporting
+536,t0138,Emma Stone,Supporting
+537,t0138,Anya Taylor-Joy,Lead
+538,t0139,Emma Stone,Lead
+539,t0139,Shah Rukh Khan,Lead
+540,t0140,Deepika Padukone,Supporting
+541,t0140,Bae Doona,Supporting
+542,t0140,Song Kang-ho,Lead
+543,t0140,Viola Davis,Lead
+544,t0140,Anya Taylor-Joy,Supporting
+545,t0140,Rami Malek,Lead
+546,t0141,Regé-Jean Page,Lead
+547,t0141,Penélope Cruz,Supporting
+548,t0141,Pedro Pascal,Lead
+549,t0141,Anya Taylor-Joy,Supporting
+550,t0141,Gal Gadot,Supporting
+551,t0142,Cate Blanchett,Lead
+552,t0142,Florence Pugh,Supporting
+553,t0143,Timothée Chalamet,Supporting
+554,t0143,Song Kang-ho,Supporting
+555,t0144,Rami Malek,Lead
+556,t0144,Aishwarya Rai,Lead
+557,t0144,Saoirse Ronan,Supporting
+558,t0144,Song Kang-ho,Lead
+559,t0144,Anya Taylor-Joy,Lead
+560,t0145,Saoirse Ronan,Supporting
+561,t0145,Timothée Chalamet,Supporting
+562,t0145,Regé-Jean Page,Supporting
+563,t0146,Michael B. Jordan,Supporting
+564,t0146,Song Kang-ho,Supporting
+565,t0146,Gong Yoo,Supporting
+566,t0146,Anya Taylor-Joy,Supporting
+567,t0146,Saoirse Ronan,Supporting
+568,t0147,Meryl Streep,Supporting
+569,t0147,Lupita Nyong'o,Supporting
+570,t0148,Mahershala Ali,Supporting
+571,t0148,Denzel Washington,Supporting
+572,t0149,Saoirse Ronan,Supporting
+573,t0149,Emma Stone,Supporting
+574,t0149,Zendaya,Supporting
+575,t0150,Anya Taylor-Joy,Supporting
+576,t0150,Oscar Isaac,Supporting
+577,t0151,Viola Davis,Supporting
+578,t0151,Shah Rukh Khan,Supporting
+579,t0151,Denzel Washington,Supporting
+580,t0152,Regé-Jean Page,Lead
+581,t0152,Zendaya,Supporting
+582,t0152,Emma Stone,Supporting
+583,t0153,Nawazuddin Siddiqui,Lead
+584,t0153,Idris Elba,Supporting
+585,t0153,Timothée Chalamet,Supporting
+586,t0153,Awkwafina,Supporting
+587,t0154,John Boyega,Lead
+588,t0154,Rami Malek,Lead
+589,t0154,Awkwafina,Supporting
+590,t0154,Oscar Isaac,Lead
+591,t0155,Anya Taylor-Joy,Lead
+592,t0155,Lee Jung-jae,Supporting
+593,t0155,Saoirse Ronan,Lead
+594,t0155,Ryan Gosling,Supporting
+595,t0155,Song Kang-ho,Supporting
+596,t0155,Gong Yoo,Supporting
+597,t0156,John Boyega,Lead
+598,t0156,Anya Taylor-Joy,Supporting
+599,t0156,Emma Stone,Supporting
+600,t0156,Penélope Cruz,Lead
+601,t0156,Ken Watanabe,Lead
+602,t0157,Jason Momoa,Supporting
+603,t0157,Awkwafina,Supporting
+604,t0157,Deepika Padukone,Supporting
+605,t0157,Regé-Jean Page,Supporting
+606,t0157,Florence Pugh,Lead
+607,t0157,Rami Malek,Supporting
+608,t0158,Gal Gadot,Supporting
+609,t0158,Adam Driver,Supporting
+610,t0158,Gong Yoo,Lead
+611,t0159,Denzel Washington,Lead
+612,t0159,Oscar Isaac,Supporting
+613,t0159,Viola Davis,Supporting
+614,t0159,Gal Gadot,Supporting
+615,t0159,Pedro Pascal,Supporting
+616,t0159,Zendaya,Supporting
+617,t0160,Song Kang-ho,Lead
+618,t0160,Meryl Streep,Supporting
+619,t0160,Saoirse Ronan,Supporting
+620,t0160,Penélope Cruz,Supporting
+621,t0160,Javier Bardem,Lead
+622,t0160,Denzel Washington,Lead
+623,t0161,Penélope Cruz,Lead
+624,t0161,Regé-Jean Page,Supporting
+625,t0161,Song Kang-ho,Supporting
+626,t0162,Aishwarya Rai,Supporting
+627,t0162,Rami Malek,Supporting
+628,t0163,Awkwafina,Supporting
+629,t0163,Oscar Isaac,Supporting
+630,t0164,Awkwafina,Lead
+631,t0164,Saoirse Ronan,Supporting
+632,t0164,Idris Elba,Supporting
+633,t0164,Millie Bobby Brown,Lead
+634,t0164,Shah Rukh Khan,Supporting
+635,t0164,Song Kang-ho,Supporting
+636,t0165,Ryan Gosling,Supporting
+637,t0165,Idris Elba,Supporting
+638,t0165,Ken Watanabe,Supporting
+639,t0165,Meryl Streep,Lead
+640,t0165,Adam Driver,Supporting
+641,t0165,Gong Yoo,Lead
+642,t0166,Tessa Thompson,Supporting
+643,t0166,Tom Hanks,Supporting
+644,t0167,Michael B. Jordan,Supporting
+645,t0167,Shah Rukh Khan,Supporting
+646,t0167,Idris Elba,Supporting
+647,t0167,Oscar Isaac,Lead
+648,t0167,Emma Stone,Supporting
+649,t0167,Cate Blanchett,Supporting
+650,t0168,Anya Taylor-Joy,Supporting
+651,t0168,Michael B. Jordan,Lead
+652,t0168,Millie Bobby Brown,Lead
+653,t0169,Lupita Nyong'o,Lead
+654,t0169,Ryan Gosling,Supporting
+655,t0169,Bae Doona,Lead
+656,t0169,Meryl Streep,Lead
+657,t0169,Awkwafina,Supporting
+658,t0170,Anya Taylor-Joy,Supporting
+659,t0170,Michael B. Jordan,Supporting
+660,t0170,Saoirse Ronan,Supporting
+661,t0170,Emma Stone,Supporting
+662,t0170,Zendaya,Supporting
+663,t0171,Lee Jung-jae,Supporting
+664,t0171,Oscar Isaac,Supporting
+665,t0171,Ken Watanabe,Supporting
+666,t0171,Penélope Cruz,Supporting
+667,t0172,Bae Doona,Supporting
+668,t0172,Aishwarya Rai,Supporting
+669,t0172,Cate Blanchett,Lead
+670,t0172,Gal Gadot,Supporting
+671,t0172,Ryan Gosling,Lead
+672,t0172,Nawazuddin Siddiqui,Supporting
+673,t0173,Aishwarya Rai,Supporting
+674,t0173,Viola Davis,Supporting
+675,t0173,Shah Rukh Khan,Supporting
+676,t0173,Marion Cotillard,Supporting
+677,t0173,Penélope Cruz,Supporting
+678,t0174,Gal Gadot,Supporting
+679,t0174,Timothée Chalamet,Lead
+680,t0174,Emma Stone,Lead
+681,t0174,Mahershala Ali,Supporting
+682,t0174,Awkwafina,Supporting
+683,t0174,Zendaya,Supporting
+684,t0175,Javier Bardem,Supporting
+685,t0175,Idris Elba,Supporting
+686,t0175,Deepika Padukone,Supporting
+687,t0175,Bae Doona,Supporting
+688,t0176,Jason Momoa,Lead
+689,t0176,Regé-Jean Page,Supporting
+690,t0176,Aishwarya Rai,Lead
+691,t0176,Tessa Thompson,Lead
+692,t0176,Shah Rukh Khan,Supporting
+693,t0177,Song Kang-ho,Supporting
+694,t0177,Penélope Cruz,Supporting
+695,t0178,Penélope Cruz,Lead
+696,t0178,Zendaya,Supporting
+697,t0178,Oscar Isaac,Supporting
+698,t0178,Jason Momoa,Supporting
+699,t0179,Saoirse Ronan,Lead
+700,t0179,Idris Elba,Supporting
+701,t0179,Rami Malek,Lead
+702,t0179,Deepika Padukone,Supporting
+703,t0180,Timothée Chalamet,Supporting
+704,t0180,Zendaya,Lead
+705,t0180,Shah Rukh Khan,Supporting
+706,t0181,Ryan Gosling,Lead
+707,t0181,Idris Elba,Lead
+708,t0181,Denzel Washington,Supporting
+709,t0181,Marion Cotillard,Lead
+710,t0181,Regé-Jean Page,Lead
+711,t0181,Viola Davis,Supporting
+712,t0182,Timothée Chalamet,Supporting
+713,t0182,Anya Taylor-Joy,Lead
+714,t0182,Aishwarya Rai,Supporting
+715,t0182,John Boyega,Supporting
+716,t0183,Marion Cotillard,Lead
+717,t0183,Nawazuddin Siddiqui,Supporting
+718,t0183,Meryl Streep,Supporting
+719,t0183,Viola Davis,Supporting
+720,t0183,Lee Jung-jae,Supporting
+721,t0183,Gal Gadot,Supporting
+722,t0184,Shah Rukh Khan,Lead
+723,t0184,Pedro Pascal,Supporting
+724,t0184,Zendaya,Supporting
+725,t0184,Marion Cotillard,Supporting
+726,t0185,Idris Elba,Lead
+727,t0185,Gal Gadot,Supporting
+728,t0186,Timothée Chalamet,Supporting
+729,t0186,Zendaya,Supporting
+730,t0187,Cate Blanchett,Supporting
+731,t0187,Denzel Washington,Supporting
+732,t0187,Deepika Padukone,Supporting
+733,t0188,Denzel Washington,Lead
+734,t0188,Florence Pugh,Supporting
+735,t0188,Viola Davis,Supporting
+736,t0189,Anya Taylor-Joy,Lead
+737,t0189,Millie Bobby Brown,Lead
+738,t0189,Nawazuddin Siddiqui,Supporting
+739,t0189,Ken Watanabe,Lead
+740,t0189,Oscar Isaac,Supporting
+741,t0190,Cate Blanchett,Supporting
+742,t0190,Millie Bobby Brown,Lead
+743,t0190,Tessa Thompson,Supporting
+744,t0190,Tom Hanks,Lead
+745,t0191,Gal Gadot,Supporting
+746,t0191,Lupita Nyong'o,Lead
+747,t0191,Marion Cotillard,Supporting
+748,t0191,Denzel Washington,Supporting
+749,t0191,Priyanka Chopra,Lead
+750,t0191,Michael B. Jordan,Supporting
+751,t0192,Aishwarya Rai,Supporting
+752,t0192,Tom Hanks,Supporting
+753,t0192,Lee Jung-jae,Supporting
+754,t0193,Emma Stone,Supporting
+755,t0193,Song Kang-ho,Supporting
+756,t0193,Meryl Streep,Supporting
+757,t0193,Anya Taylor-Joy,Supporting
+758,t0194,Millie Bobby Brown,Lead
+759,t0194,Idris Elba,Supporting
+760,t0194,Javier Bardem,Supporting
+761,t0195,Idris Elba,Lead
+762,t0195,Emma Stone,Supporting
+763,t0195,Gal Gadot,Supporting
+764,t0195,Penélope Cruz,Supporting
+765,t0195,Pedro Pascal,Lead
+766,t0195,Bae Doona,Supporting
+767,t0196,Florence Pugh,Lead
+768,t0196,Priyanka Chopra,Supporting
+769,t0197,Timothée Chalamet,Lead
+770,t0197,Lee Jung-jae,Supporting
+771,t0197,Gong Yoo,Supporting
+772,t0197,Idris Elba,Supporting
+773,t0198,Emma Stone,Supporting
+774,t0198,Lupita Nyong'o,Lead
+775,t0199,Idris Elba,Supporting
+776,t0199,Meryl Streep,Supporting
+777,t0200,Pedro Pascal,Supporting
+778,t0200,Timothée Chalamet,Supporting
+779,t0200,Cate Blanchett,Supporting
+780,t0200,Oscar Isaac,Supporting
+781,t0200,Adam Driver,Supporting
+782,t0200,Bae Doona,Lead
+783,t0201,Rami Malek,Lead
+784,t0201,Ryan Gosling,Lead
+785,t0201,Tessa Thompson,Supporting
+786,t0201,Pedro Pascal,Supporting
+787,t0201,Cate Blanchett,Supporting
+788,t0201,Awkwafina,Lead
+789,t0202,Anya Taylor-Joy,Lead
+790,t0202,Meryl Streep,Supporting
+791,t0202,Lee Jung-jae,Lead
+792,t0203,Pedro Pascal,Lead
+793,t0203,Lupita Nyong'o,Lead
+794,t0203,Oscar Isaac,Lead
+795,t0203,Adam Driver,Supporting
+796,t0204,Penélope Cruz,Lead
+797,t0204,Priyanka Chopra,Supporting
+798,t0205,Idris Elba,Supporting
+799,t0205,Nawazuddin Siddiqui,Supporting
+800,t0205,Marion Cotillard,Lead
+801,t0205,Cate Blanchett,Supporting
+802,t0206,Gong Yoo,Supporting
+803,t0206,Oscar Isaac,Supporting
+804,t0206,Florence Pugh,Lead
+805,t0206,Regé-Jean Page,Supporting
+806,t0206,Song Kang-ho,Supporting
+807,t0206,Zendaya,Supporting
+808,t0207,Gong Yoo,Supporting
+809,t0207,Anya Taylor-Joy,Lead
+810,t0207,Ken Watanabe,Supporting
+811,t0207,Meryl Streep,Supporting
+812,t0207,Tom Hanks,Supporting
+813,t0207,Idris Elba,Supporting
+814,t0208,Saoirse Ronan,Lead
+815,t0208,Mahershala Ali,Supporting
+816,t0208,Bae Doona,Supporting
+817,t0208,Timothée Chalamet,Supporting
+818,t0208,Marion Cotillard,Lead
+819,t0208,Viola Davis,Supporting
+820,t0209,Mahershala Ali,Lead
+821,t0209,Lupita Nyong'o,Lead
+822,t0209,Deepika Padukone,Supporting
+823,t0209,Gong Yoo,Lead
+824,t0209,Anya Taylor-Joy,Supporting
+825,t0210,Priyanka Chopra,Supporting
+826,t0210,Lee Jung-jae,Supporting
+827,t0210,John Boyega,Supporting
+828,t0210,Tessa Thompson,Lead
+829,t0211,Anya Taylor-Joy,Lead
+830,t0211,Zendaya,Supporting
+831,t0212,Aishwarya Rai,Supporting
+832,t0212,John Boyega,Supporting
+833,t0212,Regé-Jean Page,Supporting
+834,t0212,Ryan Gosling,Supporting
+835,t0213,Priyanka Chopra,Lead
+836,t0213,Penélope Cruz,Lead
+837,t0213,Awkwafina,Supporting
+838,t0213,Adam Driver,Lead
+839,t0213,Bae Doona,Supporting
+840,t0214,Cate Blanchett,Supporting
+841,t0214,,Supporting
+842,t0215,Ryan Gosling,Supporting
+843,t0215,Penélope Cruz,Lead
+844,t0215,Nawazuddin Siddiqui,Lead
+845,t0215,Gong Yoo,Supporting
+846,t0215,Awkwafina,Supporting
+847,t0215,Priyanka Chopra,Lead
+848,t0216,Lupita Nyong'o,Supporting
+849,t0216,Pedro Pascal,Lead
+850,t0216,Rami Malek,Lead
+851,t0216,Gong Yoo,Supporting
+852,t0216,Javier Bardem,Supporting
+853,t0216,Deepika Padukone,Supporting
+854,t0217,Adam Driver,Supporting
+855,t0217,Ryan Gosling,Supporting
+856,t0218,Meryl Streep,Supporting
+857,t0218,Idris Elba,Lead
+858,t0218,Timothée Chalamet,Supporting
+859,t0219,Priyanka Chopra,Supporting
+860,t0219,Emma Stone,Supporting
+861,t0219,Adam Driver,Lead
+862,t0219,John Boyega,Supporting
+863,t0220,Jason Momoa,Supporting
+864,t0220,Tom Hanks,Lead
+865,t0220,Song Kang-ho,Supporting
+866,t0220,Ryan Gosling,Supporting
+867,t0220,Nawazuddin Siddiqui,Supporting
+868,t0221,Viola Davis,Supporting
+869,t0221,Lupita Nyong'o,Supporting
+870,t0221,Shah Rukh Khan,Supporting
+871,t0221,Anya Taylor-Joy,Supporting
+872,t0221,Michael B. Jordan,Supporting
+873,t0222,Penélope Cruz,Supporting
+874,t0222,Javier Bardem,Lead
+875,t0223,Jason Momoa,Lead
+876,t0223,Anya Taylor-Joy,Supporting
+877,t0223,Gal Gadot,Lead
+878,t0223,Cate Blanchett,Lead
+879,t0224,Lee Jung-jae,Supporting
+880,t0224,Gal Gadot,Supporting
+881,t0225,Zendaya,Supporting
+882,t0225,Viola Davis,Lead
+883,t0226,Jason Momoa,Supporting
+884,t0226,Deepika Padukone,Supporting
+885,t0226,Javier Bardem,Lead
+886,t0227,Cate Blanchett,Supporting
+887,t0227,Penélope Cruz,Supporting
+888,t0227,Lee Jung-jae,Lead
+889,t0227,Idris Elba,Supporting
+890,t0228,Shah Rukh Khan,Lead
+891,t0228,Tom Hanks,Lead
+892,t0229,Meryl Streep,Lead
+893,t0229,Jason Momoa,Lead
+894,t0229,John Boyega,Supporting
+895,t0229,Timothée Chalamet,Supporting
+896,t0229,Zendaya,Lead
+897,t0230,Aishwarya Rai,Lead
+898,t0230,Deepika Padukone,Lead
+899,t0230,Song Kang-ho,Lead
+900,t0230,Gong Yoo,Lead
+901,t0230,Idris Elba,Supporting
+902,t0230,Ken Watanabe,Lead
+903,t0231,Meryl Streep,Supporting
+904,t0231,Rami Malek,Supporting
+905,t0231,Ryan Gosling,Supporting
+906,t0231,Awkwafina,Lead
+907,t0231,Lee Jung-jae,Supporting
+908,t0232,Aishwarya Rai,Lead
+909,t0232,Denzel Washington,Lead
+910,t0233,Nawazuddin Siddiqui,Lead
+911,t0233,Michael B. Jordan,Supporting
+912,t0233,Penélope Cruz,Lead
+913,t0234,Priyanka Chopra,Lead
+914,t0234,Anya Taylor-Joy,Supporting
+915,t0234,Adam Driver,Supporting
+916,t0235,Cate Blanchett,Lead
+917,t0235,Jason Momoa,Supporting
+918,t0235,Shah Rukh Khan,Lead
+919,t0236,Priyanka Chopra,Lead
+920,t0236,Lee Jung-jae,Supporting
+921,t0236,Gal Gadot,Supporting
+922,t0236,Deepika Padukone,Supporting
+923,t0236,Zendaya,Supporting
+924,t0237,Awkwafina,Lead
+925,t0237,Deepika Padukone,Supporting
+926,t0237,Emma Stone,Lead
+927,t0238,Jason Momoa,Supporting
+928,t0238,Millie Bobby Brown,Lead
+929,t0238,Ken Watanabe,Lead
+930,t0238,Tom Hanks,Lead
+931,t0239,Nawazuddin Siddiqui,Supporting
+932,t0239,Idris Elba,Supporting
+933,t0240,Ryan Gosling,Supporting
+934,t0240,Saoirse Ronan,Supporting
+935,t0240,Viola Davis,Lead
+936,t0240,Gal Gadot,Supporting
+937,t0240,Priyanka Chopra,Supporting
+938,t0241,Tom Hanks,Supporting
+939,t0241,Penélope Cruz,Lead
+940,t0241,John Boyega,Supporting
+941,t0241,Millie Bobby Brown,Supporting
+942,t0242,Oscar Isaac,Lead
+943,t0242,Cate Blanchett,Supporting
+944,t0242,Timothée Chalamet,Lead
+945,t0242,Lee Jung-jae,Lead
+946,t0242,Idris Elba,Supporting
+947,t0242,Penélope Cruz,Supporting
+948,t0243,Pedro Pascal,Lead
+949,t0243,Mahershala Ali,Supporting
+950,t0243,John Boyega,Supporting
+951,t0243,Gong Yoo,Lead
+952,t0244,Michael B. Jordan,Supporting
+953,t0244,Bae Doona,Supporting
+954,t0245,Michael B. Jordan,Lead
+955,t0245,Viola Davis,Supporting
+956,t0245,Tessa Thompson,Supporting
+957,t0245,Song Kang-ho,Lead
+958,t0246,Meryl Streep,Supporting
+959,t0246,Aishwarya Rai,Supporting
+960,t0246,Awkwafina,Supporting
+961,t0247,Zendaya,Supporting
+962,t0247,Pedro Pascal,Lead
+963,t0247,Gong Yoo,Supporting
+964,t0247,John Boyega,Lead
+965,t0247,Millie Bobby Brown,Supporting
+966,t0247,Anya Taylor-Joy,Lead
+967,t0248,Awkwafina,Supporting
+968,t0248,Ken Watanabe,Supporting
+969,t0249,Lee Jung-jae,Supporting
+970,t0249,Gong Yoo,Lead
+971,t0249,Cate Blanchett,Supporting
+972,t0250,Bae Doona,Supporting
+973,t0250,Ken Watanabe,Lead
+974,t0250,Gong Yoo,Lead
+975,t0250,Mahershala Ali,Lead
+976,t0250,Shah Rukh Khan,Supporting
+977,t0250,Ryan Gosling,Lead
+978,t0251,Gal Gadot,Lead
+979,t0251,Cate Blanchett,Supporting
+980,t0251,Marion Cotillard,Supporting
+981,t0251,Idris Elba,Supporting
+982,t0251,Millie Bobby Brown,Lead
+983,t0252,Nawazuddin Siddiqui,Lead
+984,t0252,Lee Jung-jae,Lead
+985,t0252,Tessa Thompson,Supporting
+986,t0253,Michael B. Jordan,Supporting
+987,t0253,Anya Taylor-Joy,Supporting
+988,t0253,Zendaya,Supporting
+989,t0254,Oscar Isaac,Supporting
+990,t0254,Marion Cotillard,Supporting
+991,t0255,Aishwarya Rai,Lead
+992,t0255,Deepika Padukone,Supporting
+993,t0255,Bae Doona,Supporting
+994,t0256,Millie Bobby Brown,Lead
+995,t0256,Emma Stone,Lead
+996,t0256,Lupita Nyong'o,Lead
+997,t0256,Saoirse Ronan,Lead
+998,t0257,Tessa Thompson,Supporting
+999,t0257,Penélope Cruz,Lead
+1000,t0257,Timothée Chalamet,Supporting
+1001,t0257,Zendaya,Lead
+1002,t0257,Meryl Streep,Lead
+1003,t0258,Regé-Jean Page,Supporting
+1004,t0258,Awkwafina,Supporting
+1005,t0258,Mahershala Ali,Supporting
+1006,t0258,Adam Driver,Lead
+1007,t0259,Song Kang-ho,Supporting
+1008,t0259,Idris Elba,Supporting
+1009,t0259,Anya Taylor-Joy,Supporting
+1010,t0259,Javier Bardem,Supporting
+1011,t0260,Javier Bardem,Supporting
+1012,t0260,Viola Davis,Supporting
+1013,t0260,Deepika Padukone,Lead
+1014,t0260,Song Kang-ho,Lead
+1015,t0261,Emma Stone,Supporting
+1016,t0261,Rami Malek,Lead
+1017,t0261,Lupita Nyong'o,Supporting
+1018,t0261,Song Kang-ho,Lead
+1019,t0261,John Boyega,Supporting
+1020,t0262,Gal Gadot,Supporting
+1021,t0262,Meryl Streep,Supporting
+1022,t0262,Ryan Gosling,Supporting
+1023,t0263,Viola Davis,Lead
+1024,t0263,Idris Elba,Supporting
+1025,t0263,Emma Stone,Lead
+1026,t0263,Lee Jung-jae,Supporting
+1027,t0264,Deepika Padukone,Lead
+1028,t0264,John Boyega,Lead
+1029,t0265,Cate Blanchett,Supporting
+1030,t0265,Timothée Chalamet,Supporting
+1031,t0266,Tom Hanks,Supporting
+1032,t0266,Ryan Gosling,Lead
+1033,t0266,Emma Stone,Supporting
+1034,t0266,Millie Bobby Brown,Supporting
+1035,t0267,Gong Yoo,Supporting
+1036,t0267,Anya Taylor-Joy,Lead
+1037,t0267,Mahershala Ali,Lead
+1038,t0267,Deepika Padukone,Supporting
+1039,t0267,Jason Momoa,Supporting
+1040,t0267,Ryan Gosling,Supporting
+1041,t0268,Anya Taylor-Joy,Lead
+1042,t0268,Lee Jung-jae,Supporting
+1043,t0268,Ryan Gosling,Lead
+1044,t0269,Oscar Isaac,Lead
+1045,t0269,Gal Gadot,Supporting
+1046,t0269,John Boyega,Supporting
+1047,t0269,Cate Blanchett,Lead
+1048,t0270,Tessa Thompson,Lead
+1049,t0270,Millie Bobby Brown,Supporting
+1050,t0270,Gal Gadot,Supporting
+1051,t0270,Lupita Nyong'o,Lead
+1052,t0271,Lupita Nyong'o,Supporting
+1053,t0271,Cate Blanchett,Supporting
+1054,t0271,Pedro Pascal,Supporting
+1055,t0271,Meryl Streep,Lead
+1056,t0271,Emma Stone,Supporting
+1057,t0272,Marion Cotillard,Supporting
+1058,t0272,Viola Davis,Lead
+1059,t0273,Ken Watanabe,Lead
+1060,t0273,Rami Malek,Supporting
+1061,t0274,Penélope Cruz,Supporting
+1062,t0274,Awkwafina,Supporting
+1063,t0274,Rami Malek,Supporting
+1064,t0274,Meryl Streep,Supporting
+1065,t0274,Cate Blanchett,Supporting
+1066,t0274,Anya Taylor-Joy,Supporting
+1067,t0275,Millie Bobby Brown,Lead
+1068,t0275,Emma Stone,Lead
+1069,t0276,Ken Watanabe,Supporting
+1070,t0276,Pedro Pascal,Supporting
+1071,t0276,Tom Hanks,Supporting
+1072,t0277,Adam Driver,Supporting
+1073,t0277,Timothée Chalamet,Supporting
+1074,t0277,Ken Watanabe,Lead
+1075,t0277,Shah Rukh Khan,Supporting
+1076,t0277,Idris Elba,Supporting
+1077,t0278,Adam Driver,Supporting
+1078,t0278,Rami Malek,Supporting
+1079,t0278,Awkwafina,Supporting
+1080,t0278,Viola Davis,Supporting
+1081,t0278,Ryan Gosling,Supporting
+1082,t0279,Pedro Pascal,Lead
+1083,t0279,Ken Watanabe,Lead
+1084,t0279,Lee Jung-jae,Supporting
+1085,t0279,Deepika Padukone,Supporting
+1086,t0279,Gal Gadot,Supporting
+1087,t0280,Gong Yoo,Lead
+1088,t0280,Lupita Nyong'o,Lead
+1089,t0280,John Boyega,Supporting
+1090,t0280,Rami Malek,Supporting
+1091,t0281,Millie Bobby Brown,Lead
+1092,t0281,Anya Taylor-Joy,Supporting
+1093,t0281,Meryl Streep,Supporting
+1094,t0282,Deepika Padukone,Supporting
+1095,t0282,Penélope Cruz,Lead
+1096,t0282,Gong Yoo,Supporting
+1097,t0282,Jason Momoa,Supporting
+1098,t0283,Oscar Isaac,Supporting
+1099,t0283,Tom Hanks,Supporting
+1100,t0283,Timothée Chalamet,Lead
+1101,t0283,Deepika Padukone,Supporting
+1102,t0284,Saoirse Ronan,Supporting
+1103,t0284,Gal Gadot,Supporting
+1104,t0285,Oscar Isaac,Supporting
+1105,t0285,Lupita Nyong'o,Supporting
+1106,t0285,Michael B. Jordan,Supporting
+1107,t0285,Jason Momoa,Supporting
+1108,t0285,Adam Driver,Lead
+1109,t0286,Florence Pugh,Supporting
+1110,t0286,Meryl Streep,Supporting
+1111,t0287,Tessa Thompson,Lead
+1112,t0287,Jason Momoa,Supporting
+1113,t0287,Ryan Gosling,Supporting
+1114,t0287,Meryl Streep,Supporting
+1115,t0287,Gong Yoo,Supporting
+1116,t0287,Aishwarya Rai,Supporting
+1117,t0288,Tessa Thompson,Supporting
+1118,t0288,Bae Doona,Supporting
+1119,t0288,Nawazuddin Siddiqui,Supporting
+1120,t0288,Aishwarya Rai,Lead
+1121,t0288,Lee Jung-jae,Supporting
+1122,t0288,Gong Yoo,Supporting
+1123,t0289,Idris Elba,Supporting
+1124,t0289,Nawazuddin Siddiqui,Supporting
+1125,t0290,Florence Pugh,Supporting
+1126,t0290,Regé-Jean Page,Lead
+1127,t0290,Shah Rukh Khan,Lead
+1128,t0290,Michael B. Jordan,Supporting
+1129,t0290,Timothée Chalamet,Lead
+1130,t0291,Ken Watanabe,Supporting
+1131,t0291,Rami Malek,Supporting
+1132,t0291,Denzel Washington,Supporting
+1133,t0292,Saoirse Ronan,Lead
+1134,t0292,Cate Blanchett,Supporting
+1135,t0292,Deepika Padukone,Lead
+1136,t0292,Marion Cotillard,Supporting
+1137,t0293,Aishwarya Rai,Supporting
+1138,t0293,Timothée Chalamet,Supporting
+1139,t0293,Mahershala Ali,Supporting
+1140,t0293,Nawazuddin Siddiqui,Lead
+1141,t0294,Javier Bardem,Lead
+1142,t0294,Bae Doona,Supporting
+1143,t0294,Anya Taylor-Joy,Supporting
+1144,t0294,Gong Yoo,Supporting
+1145,t0294,Meryl Streep,Supporting
+1146,t0295,Lee Jung-jae,Lead
+1147,t0295,Penélope Cruz,Supporting
+1148,t0295,Anya Taylor-Joy,Supporting
+1149,t0296,Anya Taylor-Joy,Supporting
+1150,t0296,Zendaya,Lead
+1151,t0296,Adam Driver,Supporting
+1152,t0297,Saoirse Ronan,Supporting
+1153,t0297,Anya Taylor-Joy,Supporting
+1154,t0297,Ken Watanabe,Lead
+1155,t0297,Aishwarya Rai,Supporting
+1156,t0297,Song Kang-ho,Lead
+1157,t0297,Denzel Washington,Supporting
+1158,t0298,Gal Gadot,Supporting
+1159,t0298,Penélope Cruz,Supporting
+1160,t0298,Bae Doona,Supporting
+1161,t0298,John Boyega,Lead
+1162,t0298,Javier Bardem,Lead
+1163,t0298,Denzel Washington,Supporting
+1164,t0299,Lupita Nyong'o,Supporting
+1165,t0299,Pedro Pascal,Supporting
+1166,t0299,Ken Watanabe,Lead
+1167,t0299,Bae Doona,Lead
+1168,t0300,Ryan Gosling,Supporting
+1169,t0300,Idris Elba,Lead
+1170,t0301,Oscar Isaac,Supporting
+1171,t0301,Florence Pugh,Supporting
+1172,t0301,Deepika Padukone,Supporting
+1173,t0301,John Boyega,Lead
+1174,t0301,Meryl Streep,Supporting
+1175,t0301,Emma Stone,Lead
+1176,t0302,Cate Blanchett,Supporting
+1177,t0302,Shah Rukh Khan,Supporting
+1178,t0302,Regé-Jean Page,Supporting
+1179,t0302,Gong Yoo,Supporting
+1180,t0302,Florence Pugh,Supporting
+1181,t0302,Ken Watanabe,Supporting
+1182,t0303,Penélope Cruz,Supporting
+1183,t0303,Aishwarya Rai,Supporting
+1184,t0303,Denzel Washington,Supporting
+1185,t0303,Awkwafina,Supporting
+1186,t0303,Tessa Thompson,Supporting
+1187,t0303,Gong Yoo,Supporting
+1188,t0304,Ryan Gosling,Lead
+1189,t0304,Denzel Washington,Lead
+1190,t0304,Regé-Jean Page,Supporting
+1191,t0304,Shah Rukh Khan,Supporting
+1192,t0304,Anya Taylor-Joy,Lead
+1193,t0304,Tom Hanks,Supporting
+1194,t0305,Nawazuddin Siddiqui,Lead
+1195,t0305,Javier Bardem,Supporting
+1196,t0305,Michael B. Jordan,Supporting
+1197,t0305,Saoirse Ronan,Supporting
+1198,t0306,John Boyega,Supporting
+1199,t0306,Aishwarya Rai,Supporting
+1200,t0306,Nawazuddin Siddiqui,Supporting
+1201,t0306,Emma Stone,Supporting
+1202,t0306,Pedro Pascal,Supporting
+1203,t0307,Idris Elba,Lead
+1204,t0307,Zendaya,Supporting
+1205,t0307,Marion Cotillard,Supporting
+1206,t0308,Awkwafina,Supporting
+1207,t0308,Denzel Washington,Supporting
+1208,t0308,Song Kang-ho,Supporting
+1209,t0309,Anya Taylor-Joy,Supporting
+1210,t0309,Regé-Jean Page,Supporting
+1211,t0309,Timothée Chalamet,Supporting
+1212,t0310,Priyanka Chopra,Supporting
+1213,t0310,Tom Hanks,Supporting
+1214,t0310,Shah Rukh Khan,Supporting
+1215,t0310,Oscar Isaac,Lead
+1216,t0311,Mahershala Ali,Supporting
+1217,t0311,Adam Driver,Supporting
+1218,t0312,Priyanka Chopra,Supporting
+1219,t0312,Rami Malek,Lead
+1220,t0312,Adam Driver,Lead
+1221,t0312,Deepika Padukone,Supporting
+1222,t0312,Pedro Pascal,Lead
+1223,t0312,Regé-Jean Page,Lead
+1224,t0313,Viola Davis,Supporting
+1225,t0313,Lupita Nyong'o,Supporting
+1226,t0313,Ken Watanabe,Supporting
+1227,t0313,Anya Taylor-Joy,Lead
+1228,t0313,Saoirse Ronan,Supporting
+1229,t0314,Deepika Padukone,Lead
+1230,t0314,Adam Driver,Supporting
+1231,t0314,Denzel Washington,Supporting
+1232,t0315,Pedro Pascal,Supporting
+1233,t0315,Shah Rukh Khan,Supporting
+1234,t0316,Timothée Chalamet,Supporting
+1235,t0316,Millie Bobby Brown,Supporting
+1236,t0316,Zendaya,Lead
+1237,t0316,Jason Momoa,Supporting
+1238,t0316,Ryan Gosling,Lead
+1239,t0317,Shah Rukh Khan,Lead
+1240,t0317,Mahershala Ali,Supporting
+1241,t0318,Denzel Washington,Supporting
+1242,t0318,John Boyega,Lead
+1243,t0318,Gong Yoo,Supporting
+1244,t0319,Priyanka Chopra,Supporting
+1245,t0319,Javier Bardem,Supporting
+1246,t0319,Cate Blanchett,Supporting
+1247,t0319,Penélope Cruz,Supporting
+1248,t0319,Viola Davis,Supporting
+1249,t0320,Lee Jung-jae,Lead
+1250,t0320,Florence Pugh,Supporting
+1251,t0320,Cate Blanchett,Supporting
+1252,t0320,Tom Hanks,Supporting
+1253,t0320,Ken Watanabe,Supporting
+1254,t0320,Denzel Washington,Supporting
+1255,t0321,Awkwafina,Lead
+1256,t0321,Bae Doona,Supporting
+1257,t0321,Millie Bobby Brown,Lead
+1258,t0321,Nawazuddin Siddiqui,Supporting
+1259,t0321,Gal Gadot,Supporting
+1260,t0322,Adam Driver,Lead
+1261,t0322,Bae Doona,Lead
+1262,t0323,Pedro Pascal,Supporting
+1263,t0323,Viola Davis,Supporting
+1264,t0323,Nawazuddin Siddiqui,Supporting
+1265,t0323,Javier Bardem,Supporting
+1266,t0323,Michael B. Jordan,Supporting
+1267,t0324,Timothée Chalamet,Supporting
+1268,t0324,Cate Blanchett,Supporting
+1269,t0324,Awkwafina,Supporting
+1270,t0325,Aishwarya Rai,Supporting
+1271,t0325,Marion Cotillard,Supporting
+1272,t0325,Millie Bobby Brown,Supporting
+1273,t0326,Awkwafina,Supporting
+1274,t0326,Marion Cotillard,Lead
+1275,t0326,Idris Elba,Lead
+1276,t0326,Adam Driver,Supporting
+1277,t0327,Bae Doona,Supporting
+1278,t0327,Oscar Isaac,Supporting
+1279,t0328,Bae Doona,Supporting
+1280,t0328,Aishwarya Rai,Supporting
+1281,t0328,Idris Elba,Supporting
+1282,t0328,Pedro Pascal,Lead
+1283,t0328,Deepika Padukone,Lead
+1284,t0329,Marion Cotillard,Supporting
+1285,t0329,Rami Malek,Lead
+1286,t0330,Millie Bobby Brown,Supporting
+1287,t0330,Gong Yoo,Supporting
+1288,t0330,Viola Davis,Supporting
+1289,t0330,Cate Blanchett,Supporting
+1290,t0330,Zendaya,Supporting
+1291,t0330,Pedro Pascal,Supporting
+1292,t0331,Timothée Chalamet,Lead
+1293,t0331,Denzel Washington,Supporting
+1294,t0332,Aishwarya Rai,Supporting
+1295,t0332,Tessa Thompson,Supporting
+1296,t0332,Anya Taylor-Joy,Supporting
+1297,t0332,Denzel Washington,Supporting
+1298,t0332,Meryl Streep,Supporting
+1299,t0332,Awkwafina,Supporting
+1300,t0333,Javier Bardem,Lead
+1301,t0333,Ken Watanabe,Supporting
+1302,t0333,Song Kang-ho,Supporting
+1303,t0334,Meryl Streep,Supporting
+1304,t0334,Aishwarya Rai,Supporting
+1305,t0334,Lee Jung-jae,Supporting
+1306,t0334,Pedro Pascal,Supporting
+1307,t0334,Timothée Chalamet,Supporting
+1308,t0334,Rami Malek,Lead
+1309,t0335,Lee Jung-jae,Supporting
+1310,t0335,Mahershala Ali,Supporting
+1311,t0336,Lee Jung-jae,Supporting
+1312,t0336,Ryan Gosling,Supporting
+1313,t0336,Rami Malek,Lead
+1314,t0336,Marion Cotillard,Lead
+1315,t0337,Zendaya,Supporting
+1316,t0337,Gong Yoo,Lead
+1317,t0337,Shah Rukh Khan,Supporting
+1318,t0337,Millie Bobby Brown,Lead
+1319,t0338,Idris Elba,Supporting
+1320,t0338,Florence Pugh,Supporting
+1321,t0338,Timothée Chalamet,Supporting
+1322,t0338,Viola Davis,Supporting
+1323,t0339,Mahershala Ali,Supporting
+1324,t0339,Saoirse Ronan,Supporting
+1325,t0340,Penélope Cruz,Supporting
+1326,t0340,Gong Yoo,Supporting
+1327,t0340,Meryl Streep,Supporting
+1328,t0340,Emma Stone,Supporting
+1329,t0340,Viola Davis,Supporting
+1330,t0341,Nawazuddin Siddiqui,Supporting
+1331,t0341,Emma Stone,Supporting
+1332,t0341,Gong Yoo,Supporting
+1333,t0341,Saoirse Ronan,Lead
+1334,t0341,Denzel Washington,Lead
+1335,t0342,Saoirse Ronan,Lead
+1336,t0342,Penélope Cruz,Lead
+1337,t0342,Jason Momoa,Supporting
+1338,t0342,Song Kang-ho,Supporting
+1339,t0342,Tessa Thompson,Supporting
+1340,t0342,Tom Hanks,Lead
+1341,t0343,Meryl Streep,Supporting
+1342,t0343,Oscar Isaac,Supporting
+1343,t0343,Penélope Cruz,Supporting
+1344,t0343,Gal Gadot,Supporting
+1345,t0344,Millie Bobby Brown,Supporting
+1346,t0344,Michael B. Jordan,Lead
+1347,t0344,Mahershala Ali,Supporting
+1348,t0345,Pedro Pascal,Lead
+1349,t0345,Awkwafina,Lead
+1350,t0346,Lee Jung-jae,Supporting
+1351,t0346,Idris Elba,Supporting
+1352,t0347,Nawazuddin Siddiqui,Lead
+1353,t0347,Ken Watanabe,Lead
+1354,t0347,John Boyega,Supporting
+1355,t0347,Rami Malek,Supporting
+1356,t0348,Florence Pugh,Lead
+1357,t0348,Gong Yoo,Supporting
+1358,t0348,Lupita Nyong'o,Supporting
+1359,t0348,Awkwafina,Supporting
+1360,t0349,Rami Malek,Supporting
+1361,t0349,Regé-Jean Page,Supporting
+1362,t0349,Gal Gadot,Supporting
+1363,t0350,Ken Watanabe,Supporting
+1364,t0350,Shah Rukh Khan,Supporting
+1365,t0350,Marion Cotillard,Supporting
+1366,t0351,Millie Bobby Brown,Supporting
+1367,t0351,Adam Driver,Lead
+1368,t0351,Mahershala Ali,Supporting
+1369,t0351,Marion Cotillard,Lead
+1370,t0352,Aishwarya Rai,Supporting
+1371,t0352,Emma Stone,Supporting
+1372,t0352,Jason Momoa,Lead
+1373,t0353,Lee Jung-jae,Lead
+1374,t0353,Jason Momoa,Lead
+1375,t0353,Timothée Chalamet,Lead
+1376,t0354,Bae Doona,Lead
+1377,t0354,Viola Davis,Supporting
+1378,t0354,Shah Rukh Khan,Lead
+1379,t0354,Rami Malek,Lead
+1380,t0354,John Boyega,Supporting
+1381,t0354,Song Kang-ho,Lead
+1382,t0355,Millie Bobby Brown,Lead
+1383,t0355,Nawazuddin Siddiqui,Lead
+1384,t0355,Shah Rukh Khan,Lead
+1385,t0355,Michael B. Jordan,Supporting
+1386,t0355,Saoirse Ronan,Supporting
+1387,t0356,Anya Taylor-Joy,Supporting
+1388,t0356,Florence Pugh,Supporting
+1389,t0356,Lupita Nyong'o,Supporting
+1390,t0357,Cate Blanchett,Supporting
+1391,t0357,Millie Bobby Brown,Lead
+1392,t0357,Anya Taylor-Joy,Supporting
+1393,t0357,Penélope Cruz,Lead
+1394,t0357,Michael B. Jordan,Supporting
+1395,t0358,Jason Momoa,Lead
+1396,t0358,Lee Jung-jae,Supporting
+1397,t0359,Priyanka Chopra,Supporting
+1398,t0359,Zendaya,Supporting
+1399,t0359,Saoirse Ronan,Supporting
+1400,t0359,Michael B. Jordan,Lead
+1401,t0359,Anya Taylor-Joy,Lead
+1402,t0359,Marion Cotillard,Lead
+1403,t0360,Regé-Jean Page,Supporting
+1404,t0360,John Boyega,Supporting
+1405,t0360,Shah Rukh Khan,Supporting
+1406,t0360,Idris Elba,Supporting
+1407,t0361,Gal Gadot,Supporting
+1408,t0361,Deepika Padukone,Supporting
+1409,t0361,Penélope Cruz,Supporting
+1410,t0361,Tessa Thompson,Supporting
+1411,t0361,Tom Hanks,Lead
+1412,t0361,Saoirse Ronan,Supporting
+1413,t0362,Deepika Padukone,Supporting
+1414,t0362,Timothée Chalamet,Lead
+1415,t0362,Song Kang-ho,Lead
+1416,t0362,Cate Blanchett,Lead
+1417,t0362,Gal Gadot,Supporting
+1418,t0363,Idris Elba,Supporting
+1419,t0363,Rami Malek,Supporting
+1420,t0363,Emma Stone,Supporting
+1421,t0363,Shah Rukh Khan,Supporting
+1422,t0363,Mahershala Ali,Supporting
+1423,t0363,Jason Momoa,Lead
+1424,t0364,Emma Stone,Supporting
+1425,t0364,Idris Elba,Lead
+1426,t0364,Michael B. Jordan,Supporting
+1427,t0364,Meryl Streep,Supporting
+1428,t0364,Aishwarya Rai,Supporting
+1429,t0364,Marion Cotillard,Supporting
+1430,t0365,Adam Driver,Lead
+1431,t0365,Anya Taylor-Joy,Supporting
+1432,t0366,Gal Gadot,Lead
+1433,t0366,Song Kang-ho,Supporting
+1434,t0366,Awkwafina,Supporting
+1435,t0366,Shah Rukh Khan,Lead
+1436,t0366,Zendaya,Supporting
+1437,t0366,John Boyega,Supporting
+1438,t0367,Priyanka Chopra,Supporting
+1439,t0367,Millie Bobby Brown,Supporting
+1440,t0367,Rami Malek,Supporting
+1441,t0367,Jason Momoa,Lead
+1442,t0367,Nawazuddin Siddiqui,Supporting
+1443,t0367,Aishwarya Rai,Supporting
+1444,t0368,Mahershala Ali,Supporting
+1445,t0368,Pedro Pascal,Supporting
+1446,t0368,Ken Watanabe,Supporting
+1447,t0368,Awkwafina,Supporting
+1448,t0368,Michael B. Jordan,Lead
+1449,t0369,Millie Bobby Brown,Lead
+1450,t0369,Deepika Padukone,Supporting
+1451,t0370,Lee Jung-jae,Supporting
+1452,t0370,Ryan Gosling,Supporting
+1453,t0371,Lupita Nyong'o,Lead
+1454,t0371,Anya Taylor-Joy,Lead
+1455,t0371,Viola Davis,Lead
+1456,t0371,Ryan Gosling,Lead
+1457,t0372,Oscar Isaac,Supporting
+1458,t0372,Bae Doona,Supporting
+1459,t0372,Penélope Cruz,Lead
+1460,t0372,Timothée Chalamet,Supporting
+1461,t0373,Tom Hanks,Lead
+1462,t0373,Viola Davis,Lead
+1463,t0373,Aishwarya Rai,Supporting
+1464,t0373,Pedro Pascal,Supporting
+1465,t0373,Shah Rukh Khan,Supporting
+1466,t0373,Anya Taylor-Joy,Lead
+1467,t0374,Pedro Pascal,Supporting
+1468,t0374,Ken Watanabe,Supporting
+1469,t0374,Nawazuddin Siddiqui,Supporting
+1470,t0374,Saoirse Ronan,Supporting
+1471,t0374,Timothée Chalamet,Lead
+1472,t0375,Gong Yoo,Lead
+1473,t0375,Cate Blanchett,Supporting
+1474,t0375,Timothée Chalamet,Lead
+1475,t0376,Idris Elba,Lead
+1476,t0376,Shah Rukh Khan,Lead
+1477,t0376,Oscar Isaac,Lead
+1478,t0377,Adam Driver,Lead
+1479,t0377,Tessa Thompson,Supporting
+1480,t0377,Penélope Cruz,Supporting
+1481,t0377,Aishwarya Rai,Lead
+1482,t0377,Rami Malek,Supporting
+1483,t0378,Gong Yoo,Supporting
+1484,t0378,Millie Bobby Brown,Lead
+1485,t0378,Michael B. Jordan,Supporting
+1486,t0378,Tessa Thompson,Supporting
+1487,t0379,Tom Hanks,Lead
+1488,t0379,Marion Cotillard,Supporting
+1489,t0380,Tessa Thompson,Lead
+1490,t0380,Aishwarya Rai,Supporting
+1491,t0381,Viola Davis,Supporting
+1492,t0381,Meryl Streep,Supporting
+1493,t0382,Oscar Isaac,Supporting
+1494,t0382,Tessa Thompson,Supporting
+1495,t0382,Aishwarya Rai,Supporting
+1496,t0382,Florence Pugh,Supporting
+1497,t0382,Gong Yoo,Supporting
+1498,t0382,Timothée Chalamet,Supporting
+1499,t0383,Florence Pugh,Lead
+1500,t0383,Javier Bardem,Supporting
+1501,t0383,Rami Malek,Supporting
+1502,t0383,Ken Watanabe,Supporting
+1503,t0383,Awkwafina,Supporting
+1504,t0384,Marion Cotillard,Supporting
+1505,t0384,Cate Blanchett,Supporting
+1506,t0384,Saoirse Ronan,Supporting
+1507,t0385,Shah Rukh Khan,Supporting
+1508,t0385,Cate Blanchett,Supporting
+1509,t0385,Lee Jung-jae,Lead
+1510,t0385,Lupita Nyong'o,Lead
+1511,t0386,Idris Elba,Lead
+1512,t0386,Javier Bardem,Supporting
+1513,t0386,Florence Pugh,Supporting
+1514,t0386,Nawazuddin Siddiqui,Supporting
+1515,t0386,Pedro Pascal,Supporting
+1516,t0387,Ken Watanabe,Supporting
+1517,t0387,John Boyega,Lead
+1518,t0388,Zendaya,Lead
+1519,t0388,Anya Taylor-Joy,Supporting
+1520,t0388,Viola Davis,Supporting
+1521,t0388,Penélope Cruz,Lead
+1522,t0389,Zendaya,Supporting
+1523,t0389,Cate Blanchett,Lead
+1524,t0389,Gong Yoo,Supporting
+1525,t0390,Penélope Cruz,Lead
+1526,t0390,Priyanka Chopra,Supporting
+1527,t0390,Oscar Isaac,Lead
+1528,t0391,Denzel Washington,Supporting
+1529,t0391,Millie Bobby Brown,Supporting
+1530,t0391,Lupita Nyong'o,Supporting
+1531,t0392,Bae Doona,Supporting
+1532,t0392,Florence Pugh,Supporting
+1533,t0393,Ken Watanabe,Supporting
+1534,t0393,Idris Elba,Lead
+1535,t0393,Lupita Nyong'o,Supporting
+1536,t0394,Mahershala Ali,Lead
+1537,t0394,Gal Gadot,Lead
+1538,t0394,John Boyega,Supporting
+1539,t0394,Ryan Gosling,Lead
+1540,t0394,Javier Bardem,Supporting
+1541,t0395,Lee Jung-jae,Lead
+1542,t0395,Priyanka Chopra,Lead
+1543,t0395,Nawazuddin Siddiqui,Supporting
+1544,t0395,Mahershala Ali,Supporting
+1545,t0396,Pedro Pascal,Supporting
+1546,t0396,Javier Bardem,Supporting
+1547,t0396,Penélope Cruz,Supporting
+1548,t0397,Priyanka Chopra,Lead
+1549,t0397,Tessa Thompson,Supporting
+1550,t0397,Viola Davis,Supporting
+1551,t0398,Regé-Jean Page,Supporting
+1552,t0398,John Boyega,Supporting
+1553,t0398,Mahershala Ali,Lead
+1554,t0399,Regé-Jean Page,Lead
+1555,t0399,Florence Pugh,Lead
+1556,t0400,Oscar Isaac,Lead
+1557,t0400,Tom Hanks,Lead
+1558,t0400,Song Kang-ho,Supporting
+1559,t0400,Adam Driver,Lead
+1560,t0400,Zendaya,Supporting
+1561,t0401,Adam Driver,Supporting
+1562,t0401,Penélope Cruz,Supporting
+1563,t0401,Oscar Isaac,Supporting
+1564,t0401,Viola Davis,Supporting
+1565,t0402,Song Kang-ho,Lead
+1566,t0402,Meryl Streep,Supporting
+1567,t0402,Mahershala Ali,Supporting
+1568,t0402,John Boyega,Supporting
+1569,t0402,Saoirse Ronan,Lead
+1570,t0402,Nawazuddin Siddiqui,Supporting
+1571,t0403,John Boyega,Supporting
+1572,t0403,Millie Bobby Brown,Supporting
+1573,t0403,Pedro Pascal,Lead
+1574,t0403,Deepika Padukone,Supporting
+1575,t0403,Timothée Chalamet,Lead
+1576,t0404,Zendaya,Supporting
+1577,t0404,Tessa Thompson,Supporting
+1578,t0404,Saoirse Ronan,Lead
+1579,t0405,Javier Bardem,Supporting
+1580,t0405,Mahershala Ali,Supporting
+1581,t0405,Rami Malek,Supporting
+1582,t0405,Tom Hanks,Lead
+1583,t0406,Deepika Padukone,Lead
+1584,t0406,Saoirse Ronan,Supporting
+1585,t0407,Song Kang-ho,Lead
+1586,t0407,Jason Momoa,Supporting
+1587,t0408,Meryl Streep,Supporting
+1588,t0408,Deepika Padukone,Lead
+1589,t0408,Viola Davis,Supporting
+1590,t0409,Viola Davis,Supporting
+1591,t0409,Zendaya,Supporting
+1592,t0409,John Boyega,Supporting
+1593,t0409,Lupita Nyong'o,Supporting
+1594,t0409,Pedro Pascal,Supporting
+1595,t0410,Florence Pugh,Supporting
+1596,t0410,Denzel Washington,Supporting
+1597,t0410,John Boyega,Supporting
+1598,t0410,Michael B. Jordan,Supporting
+1599,t0411,Marion Cotillard,Supporting
+1600,t0411,Florence Pugh,Supporting
+1601,t0411,Saoirse Ronan,Supporting
+1602,t0411,Denzel Washington,Supporting
+1603,t0412,Adam Driver,Supporting
+1604,t0412,Rami Malek,Supporting
+1605,t0412,Ryan Gosling,Supporting
+1606,t0412,Deepika Padukone,Supporting
+1607,t0413,Saoirse Ronan,Lead
+1608,t0413,Rami Malek,Supporting
+1609,t0413,Ken Watanabe,Supporting
+1610,t0413,Aishwarya Rai,Supporting
+1611,t0413,Viola Davis,Lead
+1612,t0413,John Boyega,Supporting
+1613,t0414,Saoirse Ronan,Supporting
+1614,t0414,Ryan Gosling,Supporting
+1615,t0414,Bae Doona,Supporting
+1616,t0414,Pedro Pascal,Supporting
+1617,t0415,Nawazuddin Siddiqui,Supporting
+1618,t0415,Gal Gadot,Lead
+1619,t0415,Pedro Pascal,Supporting
+1620,t0415,Bae Doona,Supporting
+1621,t0416,Millie Bobby Brown,Supporting
+1622,t0416,Ken Watanabe,Lead
+1623,t0417,Emma Stone,Supporting
+1624,t0417,Mahershala Ali,Supporting
+1625,t0417,Rami Malek,Supporting
+1626,t0418,Saoirse Ronan,Lead
+1627,t0418,Oscar Isaac,Supporting
+1628,t0418,Emma Stone,Supporting
+1629,t0418,Meryl Streep,Lead
+1630,t0418,Jason Momoa,Supporting
+1631,t0419,Bae Doona,Lead
+1632,t0419,Pedro Pascal,Supporting
+1633,t0419,Idris Elba,Supporting
+1634,t0419,Tom Hanks,Supporting
+1635,t0419,Saoirse Ronan,Supporting
+1636,t0420,Nawazuddin Siddiqui,Supporting
+1637,t0420,Saoirse Ronan,Supporting
+1638,t0420,Ryan Gosling,Supporting
+1639,t0420,Gong Yoo,Supporting
+1640,t0421,Adam Driver,Supporting
+1641,t0421,Idris Elba,Lead
+1642,t0421,Gal Gadot,Lead
+1643,t0422,Tessa Thompson,Supporting
+1644,t0422,Ryan Gosling,Lead
+1645,t0422,Michael B. Jordan,Supporting
+1646,t0422,Song Kang-ho,Supporting
+1647,t0422,Marion Cotillard,Supporting
+1648,t0422,Anya Taylor-Joy,Supporting
+1649,t0423,Gal Gadot,Lead
+1650,t0423,Deepika Padukone,Lead
+1651,t0423,Denzel Washington,Supporting
+1652,t0424,Rami Malek,Supporting
+1653,t0424,Ryan Gosling,Supporting
+1654,t0424,Penélope Cruz,Lead
+1655,t0424,Zendaya,Supporting
+1656,t0424,Shah Rukh Khan,Supporting
+1657,t0425,Deepika Padukone,Supporting
+1658,t0425,Javier Bardem,Supporting
+1659,t0425,Nawazuddin Siddiqui,Lead
+1660,t0425,Meryl Streep,Lead
+1661,t0425,Lupita Nyong'o,Supporting
+1662,t0425,Ken Watanabe,Supporting
+1663,t0426,Deepika Padukone,Supporting
+1664,t0426,Idris Elba,Supporting
+1665,t0426,Meryl Streep,Supporting
+1666,t0426,,Lead
+1667,t0426,Bae Doona,Supporting
+1668,t0427,Lee Jung-jae,Supporting
+1669,t0427,Marion Cotillard,Supporting
+1670,t0428,Tom Hanks,Supporting
+1671,t0428,Saoirse Ronan,Supporting
+1672,t0429,Penélope Cruz,Supporting
+1673,t0429,Ken Watanabe,Supporting
+1674,t0429,Oscar Isaac,Lead
+1675,t0430,Denzel Washington,Lead
+1676,t0430,Gong Yoo,Supporting
+1677,t0431,Awkwafina,Supporting
+1678,t0431,Aishwarya Rai,Supporting
+1679,t0431,Tessa Thompson,Supporting
+1680,t0431,Timothée Chalamet,Supporting
+1681,t0431,Denzel Washington,Supporting
+1682,t0432,Mahershala Ali,Lead
+1683,t0432,Jason Momoa,Supporting
+1684,t0432,Emma Stone,Lead
+1685,t0432,Marion Cotillard,Lead
+1686,t0433,Jason Momoa,Lead
+1687,t0433,Marion Cotillard,Supporting
+1688,t0433,Penélope Cruz,Supporting
+1689,t0433,Javier Bardem,Supporting
+1690,t0434,Rami Malek,Lead
+1691,t0434,Meryl Streep,Supporting
+1692,t0434,Deepika Padukone,Lead
+1693,t0435,John Boyega,Supporting
+1694,t0435,Marion Cotillard,Lead
+1695,t0436,Timothée Chalamet,Supporting
+1696,t0436,Priyanka Chopra,Supporting
+1697,t0436,Regé-Jean Page,Supporting
+1698,t0437,Lupita Nyong'o,Supporting
+1699,t0437,Lee Jung-jae,Supporting
+1700,t0437,Idris Elba,Lead
+1701,t0438,Aishwarya Rai,Lead
+1702,t0438,Viola Davis,Lead
+1703,t0438,Awkwafina,Supporting
+1704,t0439,Timothée Chalamet,Supporting
+1705,t0439,Nawazuddin Siddiqui,Lead
+1706,t0439,Anya Taylor-Joy,Lead
+1707,t0440,Denzel Washington,Lead
+1708,t0440,Michael B. Jordan,Lead
+1709,t0440,Javier Bardem,Lead
+1710,t0440,Cate Blanchett,Supporting
+1711,t0441,Shah Rukh Khan,Supporting
+1712,t0441,Marion Cotillard,Supporting
+1713,t0441,Zendaya,Supporting
+1714,t0441,Cate Blanchett,Supporting
+1715,t0441,Millie Bobby Brown,Lead
+1716,t0442,Aishwarya Rai,Lead
+1717,t0442,Shah Rukh Khan,Lead
+1718,t0442,Zendaya,Supporting
+1719,t0442,Javier Bardem,Supporting
+1720,t0443,Ryan Gosling,Supporting
+1721,t0443,Millie Bobby Brown,Supporting
+1722,t0444,Gong Yoo,Supporting
+1723,t0444,John Boyega,Supporting
+1724,t0444,Rami Malek,Supporting
+1725,t0445,Zendaya,Supporting
+1726,t0445,Cate Blanchett,Lead
+1727,t0445,Emma Stone,Supporting
+1728,t0446,John Boyega,Supporting
+1729,t0446,Zendaya,Supporting
+1730,t0446,Nawazuddin Siddiqui,Supporting
+1731,t0446,Denzel Washington,Supporting
+1732,t0447,Bae Doona,Supporting
+1733,t0447,Mahershala Ali,Supporting
+1734,t0447,Oscar Isaac,Supporting
+1735,t0448,Emma Stone,Lead
+1736,t0448,Regé-Jean Page,Lead
+1737,t0449,Priyanka Chopra,Supporting
+1738,t0449,Viola Davis,Lead
+1739,t0449,Lupita Nyong'o,Supporting
+1740,t0449,Tom Hanks,Lead
+1741,t0450,Ryan Gosling,Supporting
+1742,t0450,Penélope Cruz,Lead
+1743,t0451,Javier Bardem,Supporting
+1744,t0451,Michael B. Jordan,Supporting
+1745,t0451,Adam Driver,Supporting
+1746,t0452,Saoirse Ronan,Supporting
+1747,t0452,Marion Cotillard,Supporting
+1748,t0453,Mahershala Ali,Supporting
+1749,t0453,Anya Taylor-Joy,Supporting
+1750,t0454,Jason Momoa,Supporting
+1751,t0454,Bae Doona,Lead
+1752,t0454,Ryan Gosling,Supporting
+1753,t0454,Rami Malek,Supporting
+1754,t0454,Florence Pugh,Lead
+1755,t0455,Viola Davis,Lead
+1756,t0455,Javier Bardem,Supporting
+1757,t0455,Millie Bobby Brown,Supporting
+1758,t0455,Ken Watanabe,Supporting
+1759,t0456,Javier Bardem,Supporting
+1760,t0456,Rami Malek,Supporting
+1761,t0456,Song Kang-ho,Supporting
+1762,t0456,Nawazuddin Siddiqui,Lead
+1763,t0457,Saoirse Ronan,Supporting
+1764,t0457,Cate Blanchett,Lead
+1765,t0458,Awkwafina,Supporting
+1766,t0458,Ryan Gosling,Supporting
+1767,t0458,Viola Davis,Lead
+1768,t0459,Adam Driver,Lead
+1769,t0459,Florence Pugh,Supporting
+1770,t0459,Viola Davis,Lead
+1771,t0459,Priyanka Chopra,Supporting
+1772,t0459,Tom Hanks,Supporting
+1773,t0460,Marion Cotillard,Lead
+1774,t0460,Awkwafina,Supporting
+1775,t0460,Oscar Isaac,Supporting
+1776,t0460,Cate Blanchett,Supporting
+1777,t0460,Song Kang-ho,Supporting
+1778,t0461,Bae Doona,Supporting
+1779,t0461,Shah Rukh Khan,Lead
+1780,t0461,Rami Malek,Supporting
+1781,t0461,Denzel Washington,Supporting
+1782,t0461,Lee Jung-jae,Lead
+1783,t0461,Awkwafina,Lead
+1784,t0462,Florence Pugh,Supporting
+1785,t0462,Bae Doona,Supporting
+1786,t0462,Awkwafina,Supporting
+1787,t0463,Rami Malek,Supporting
+1788,t0463,Deepika Padukone,Supporting
+1789,t0464,Michael B. Jordan,Supporting
+1790,t0464,Regé-Jean Page,Lead
+1791,t0465,Marion Cotillard,Lead
+1792,t0465,Adam Driver,Supporting
+1793,t0465,Idris Elba,Supporting
+1794,t0465,Michael B. Jordan,Supporting
+1795,t0466,Idris Elba,Supporting
+1796,t0466,Ryan Gosling,Supporting
+1797,t0466,Denzel Washington,Supporting
+1798,t0466,Gong Yoo,Supporting
+1799,t0467,Mahershala Ali,Supporting
+1800,t0467,Saoirse Ronan,Supporting
+1801,t0467,Idris Elba,Supporting
+1802,t0467,Ken Watanabe,Supporting
+1803,t0467,Regé-Jean Page,Lead
+1804,t0468,Millie Bobby Brown,Supporting
+1805,t0468,John Boyega,Lead
+1806,t0468,Meryl Streep,Supporting
+1807,t0468,Shah Rukh Khan,Supporting
+1808,t0468,Florence Pugh,Supporting
+1809,t0469,Regé-Jean Page,Supporting
+1810,t0469,Shah Rukh Khan,Lead
+1811,t0469,Deepika Padukone,Supporting
+1812,t0470,Timothée Chalamet,Supporting
+1813,t0470,Deepika Padukone,Lead
+1814,t0470,Adam Driver,Lead
+1815,t0470,Mahershala Ali,Supporting
+1816,t0470,Priyanka Chopra,Supporting
+1817,t0471,Emma Stone,Supporting
+1818,t0471,Ken Watanabe,Supporting
+1819,t0471,Awkwafina,Supporting
+1820,t0471,Denzel Washington,Supporting
+1821,t0472,Priyanka Chopra,Supporting
+1822,t0472,Millie Bobby Brown,Supporting
+1823,t0472,Saoirse Ronan,Lead
+1824,t0473,Oscar Isaac,Lead
+1825,t0473,Ken Watanabe,Supporting
+1826,t0473,Deepika Padukone,Lead
+1827,t0473,Jason Momoa,Supporting
+1828,t0473,Millie Bobby Brown,Lead
+1829,t0473,Penélope Cruz,Lead
+1830,t0474,Emma Stone,Lead
+1831,t0474,Ryan Gosling,Supporting
+1832,t0474,Saoirse Ronan,Supporting
+1833,t0474,Adam Driver,Supporting
+1834,t0474,Idris Elba,Lead
+1835,t0475,Regé-Jean Page,Supporting
+1836,t0475,Lee Jung-jae,Supporting
+1837,t0475,Saoirse Ronan,Supporting
+1838,t0475,Meryl Streep,Supporting
+1839,t0475,Mahershala Ali,Lead
+1840,t0475,Tom Hanks,Lead
+1841,t0476,Song Kang-ho,Supporting
+1842,t0476,Mahershala Ali,Lead
+1843,t0476,Javier Bardem,Supporting
+1844,t0476,Marion Cotillard,Supporting
+1845,t0476,Millie Bobby Brown,Supporting
+1846,t0477,Gal Gadot,Supporting
+1847,t0477,Denzel Washington,Supporting
+1848,t0477,Awkwafina,Supporting
+1849,t0477,Florence Pugh,Lead
+1850,t0478,Pedro Pascal,Lead
+1851,t0478,,Supporting
+1852,t0478,Nawazuddin Siddiqui,Supporting
+1853,t0479,Oscar Isaac,Supporting
+1854,t0479,Michael B. Jordan,Supporting
+1855,t0479,John Boyega,Supporting
+1856,t0479,Meryl Streep,Supporting
+1857,t0480,Rami Malek,Lead
+1858,t0480,Gal Gadot,Supporting
+1859,t0480,Tessa Thompson,Lead
+1860,t0480,Denzel Washington,Supporting
+1861,t0481,Song Kang-ho,Supporting
+1862,t0481,Emma Stone,Supporting
+1863,t0481,Pedro Pascal,Lead
+1864,t0481,Penélope Cruz,Lead
+1865,t0482,Meryl Streep,Supporting
+1866,t0482,Cate Blanchett,Supporting
+1867,t0482,Shah Rukh Khan,Supporting
+1868,t0482,Oscar Isaac,Supporting
+1869,t0483,Deepika Padukone,Supporting
+1870,t0483,Marion Cotillard,Supporting
+1871,t0483,Millie Bobby Brown,Supporting
+1872,t0483,Bae Doona,Lead
+1873,t0483,Regé-Jean Page,Supporting
+1874,t0484,Saoirse Ronan,Supporting
+1875,t0484,Ken Watanabe,Supporting
+1876,t0484,Gong Yoo,Supporting
+1877,t0484,Ryan Gosling,Lead
+1878,t0485,Javier Bardem,Supporting
+1879,t0485,Gong Yoo,Lead
+1880,t0485,Saoirse Ronan,Supporting
+1881,t0485,Denzel Washington,Supporting
+1882,t0486,Adam Driver,Supporting
+1883,t0486,Penélope Cruz,Supporting
+1884,t0486,Denzel Washington,Lead
+1885,t0486,Lupita Nyong'o,Supporting
+1886,t0486,Nawazuddin Siddiqui,Supporting
+1887,t0487,Priyanka Chopra,Supporting
+1888,t0487,John Boyega,Supporting
+1889,t0487,Saoirse Ronan,Supporting
+1890,t0487,Shah Rukh Khan,Supporting
+1891,t0487,Meryl Streep,Lead
+1892,t0488,Lee Jung-jae,Lead
+1893,t0488,Jason Momoa,Lead
+1894,t0488,Florence Pugh,Supporting
+1895,t0489,Javier Bardem,Supporting
+1896,t0489,Regé-Jean Page,Supporting
+1897,t0490,Viola Davis,Supporting
+1898,t0490,Priyanka Chopra,Supporting
+1899,t0490,Mahershala Ali,Lead
+1900,t0490,Florence Pugh,Lead
+1901,t0491,Javier Bardem,Supporting
+1902,t0491,Bae Doona,Supporting
+1903,t0492,Regé-Jean Page,Supporting
+1904,t0492,Ryan Gosling,Supporting
+1905,t0492,Bae Doona,Lead
+1906,t0492,Deepika Padukone,Lead
+1907,t0492,Gal Gadot,Supporting
+1908,t0493,Viola Davis,Lead
+1909,t0493,Regé-Jean Page,Lead
+1910,t0493,Gal Gadot,Supporting
+1911,t0493,Awkwafina,Supporting
+1912,t0493,Ryan Gosling,Supporting
+1913,t0493,Tessa Thompson,Lead
+1914,t0494,Bae Doona,Supporting
+1915,t0494,Ryan Gosling,Supporting
+1916,t0495,Millie Bobby Brown,Supporting
+1917,t0495,Priyanka Chopra,Lead
+1918,t0495,Song Kang-ho,Supporting
+1919,t0495,Shah Rukh Khan,Supporting
+1920,t0495,Oscar Isaac,Supporting
+1921,t0495,Lupita Nyong'o,Supporting
+1922,t0496,Jason Momoa,Lead
+1923,t0496,Idris Elba,Supporting
+1924,t0496,Mahershala Ali,Supporting
+1925,t0496,Lupita Nyong'o,Supporting
+1926,t0496,John Boyega,Lead
+1927,t0497,Timothée Chalamet,Supporting
+1928,t0497,Emma Stone,Supporting
+1929,t0497,Nawazuddin Siddiqui,Supporting
+1930,t0497,Zendaya,Supporting
+1931,t0497,Gal Gadot,Supporting
+1932,t0498,Regé-Jean Page,Supporting
+1933,t0498,Millie Bobby Brown,Supporting
+1934,t0498,Penélope Cruz,Supporting
+1935,t0498,Priyanka Chopra,Lead
+1936,t0498,Ken Watanabe,Supporting
+1937,t0499,Ryan Gosling,Supporting
+1938,t0499,Jason Momoa,Lead
+1939,t0500,Florence Pugh,Supporting
+1940,t0500,Gong Yoo,Lead
+1941,t0500,John Boyega,Supporting
+1942,t0500,Aishwarya Rai,Supporting
+1943,t0500,Tessa Thompson,Lead
+1944,t0501,Idris Elba,Supporting
+1945,t0501,Viola Davis,Supporting
+1946,t0501,Tom Hanks,Supporting
+1947,t0501,Bae Doona,Supporting
+1948,t0502,Shah Rukh Khan,Supporting
+1949,t0502,Marion Cotillard,Lead
+1950,t0502,Lupita Nyong'o,Supporting
+1951,t0502,Adam Driver,Lead
+1952,t0503,Regé-Jean Page,Lead
+1953,t0503,Florence Pugh,Supporting
+1954,t0503,Tom Hanks,Supporting
+1955,t0503,Anya Taylor-Joy,Lead
+1956,t0503,Idris Elba,Supporting
+1957,t0504,Penélope Cruz,Supporting
+1958,t0504,Ken Watanabe,Lead
+1959,t0504,Song Kang-ho,Lead
+1960,t0504,Emma Stone,Lead
+1961,t0505,Florence Pugh,Supporting
+1962,t0505,Ken Watanabe,Supporting
+1963,t0505,Oscar Isaac,Supporting
+1964,t0505,Anya Taylor-Joy,Supporting
+1965,t0505,Michael B. Jordan,Supporting
+1966,t0505,Deepika Padukone,Supporting
+1967,t0506,Timothée Chalamet,Supporting
+1968,t0506,Idris Elba,Supporting
+1969,t0506,Viola Davis,Lead
+1970,t0506,Priyanka Chopra,Supporting
+1971,t0506,Bae Doona,Supporting
+1972,t0506,Shah Rukh Khan,Supporting
+1973,t0507,Aishwarya Rai,Supporting
+1974,t0507,Cate Blanchett,Supporting
+1975,t0508,John Boyega,Supporting
+1976,t0508,Adam Driver,Lead
+1977,t0508,Awkwafina,Supporting
+1978,t0508,Ken Watanabe,Supporting
+1979,t0508,Nawazuddin Siddiqui,Lead
+1980,t0508,Emma Stone,Supporting
+1981,t0509,Deepika Padukone,Supporting
+1982,t0509,Bae Doona,Lead
+1983,t0509,John Boyega,Lead
+1984,t0510,Awkwafina,Supporting
+1985,t0510,Florence Pugh,Lead
+1986,t0510,Millie Bobby Brown,Supporting
+1987,t0510,Javier Bardem,Supporting
+1988,t0511,Song Kang-ho,Supporting
+1989,t0511,Rami Malek,Lead
+1990,t0511,Ryan Gosling,Lead
+1991,t0511,Tom Hanks,Supporting
+1992,t0512,Rami Malek,Supporting
+1993,t0512,Priyanka Chopra,Supporting
+1994,t0513,Lupita Nyong'o,Lead
+1995,t0513,Priyanka Chopra,Supporting
+1996,t0513,Denzel Washington,Supporting
+1997,t0513,Adam Driver,Supporting
+1998,t0513,Tessa Thompson,Supporting
+1999,t0513,Florence Pugh,Lead
+2000,t0514,Deepika Padukone,Supporting
+2001,t0514,Aishwarya Rai,Supporting
+2002,t0514,Lee Jung-jae,Lead
+2003,t0515,Florence Pugh,Lead
+2004,t0515,Millie Bobby Brown,Supporting
+2005,t0515,Tom Hanks,Supporting
+2006,t0515,Deepika Padukone,Supporting
+2007,t0516,Denzel Washington,Lead
+2008,t0516,Oscar Isaac,Supporting
+2009,t0516,Lupita Nyong'o,Supporting
+2010,t0517,Anya Taylor-Joy,Supporting
+2011,t0517,Adam Driver,Lead
+2012,t0517,Florence Pugh,Supporting
+2013,t0517,Denzel Washington,Supporting
+2014,t0518,Florence Pugh,Supporting
+2015,t0518,Denzel Washington,Supporting
+2016,t0518,Lupita Nyong'o,Supporting
+2017,t0519,Lee Jung-jae,Supporting
+2018,t0519,Adam Driver,Supporting
+2019,t0519,Awkwafina,Lead
+2020,t0519,Ken Watanabe,Supporting
+2021,t0519,Cate Blanchett,Supporting
+2022,t0520,Meryl Streep,Supporting
+2023,t0520,Lee Jung-jae,Supporting
+2024,t0521,Tom Hanks,Supporting
+2025,t0521,Timothée Chalamet,Lead
+2026,t0521,Awkwafina,Supporting
+2027,t0521,Oscar Isaac,Lead
+2028,t0521,Penélope Cruz,Supporting
+2029,t0521,Regé-Jean Page,Lead
+2030,t0522,Lee Jung-jae,Supporting
+2031,t0522,Denzel Washington,Lead
+2032,t0522,Anya Taylor-Joy,Supporting
+2033,t0522,Ryan Gosling,Supporting
+2034,t0522,Regé-Jean Page,Lead
+2035,t0522,Penélope Cruz,Supporting
+2036,t0523,Jason Momoa,Supporting
+2037,t0523,Adam Driver,Supporting
+2038,t0523,Michael B. Jordan,Lead
+2039,t0524,Song Kang-ho,Supporting
+2040,t0524,John Boyega,Supporting
+2041,t0524,Rami Malek,Lead
+2042,t0525,Nawazuddin Siddiqui,Lead
+2043,t0525,Song Kang-ho,Lead
+2044,t0525,Gong Yoo,Supporting
+2045,t0526,Timothée Chalamet,Supporting
+2046,t0526,Bae Doona,Lead
+2047,t0526,Ryan Gosling,Supporting
+2048,t0526,Cate Blanchett,Lead
+2049,t0526,Adam Driver,Lead
+2050,t0527,Aishwarya Rai,Supporting
+2051,t0527,John Boyega,Lead
+2052,t0527,Deepika Padukone,Supporting
+2053,t0527,Florence Pugh,Supporting
+2054,t0527,Javier Bardem,Lead
+2055,t0528,Awkwafina,Supporting
+2056,t0528,Rami Malek,Supporting
+2057,t0528,Ken Watanabe,Supporting
+2058,t0528,Gal Gadot,Supporting
+2059,t0528,Nawazuddin Siddiqui,Supporting
+2060,t0529,Nawazuddin Siddiqui,Supporting
+2061,t0529,Saoirse Ronan,Lead
+2062,t0529,Oscar Isaac,Lead
+2063,t0529,Jason Momoa,Supporting
+2064,t0529,Millie Bobby Brown,Supporting
+2065,t0530,Javier Bardem,Supporting
+2066,t0530,Lupita Nyong'o,Supporting
+2067,t0530,Adam Driver,Supporting
+2068,t0530,Cate Blanchett,Supporting
+2069,t0530,Anya Taylor-Joy,Lead
+2070,t0531,Mahershala Ali,Supporting
+2071,t0531,Michael B. Jordan,Supporting
+2072,t0531,Timothée Chalamet,Lead
+2073,t0531,John Boyega,Supporting
+2074,t0531,Nawazuddin Siddiqui,Supporting
+2075,t0531,Aishwarya Rai,Supporting
+2076,t0532,Shah Rukh Khan,Supporting
+2077,t0532,Penélope Cruz,Supporting
+2078,t0533,Emma Stone,Supporting
+2079,t0533,Bae Doona,Supporting
+2080,t0533,Awkwafina,Lead
+2081,t0533,Idris Elba,Lead
+2082,t0533,Shah Rukh Khan,Supporting
+2083,t0534,Tom Hanks,Supporting
+2084,t0534,Aishwarya Rai,Supporting
+2085,t0535,Aishwarya Rai,Lead
+2086,t0535,Penélope Cruz,Supporting
+2087,t0536,Penélope Cruz,Supporting
+2088,t0536,Gong Yoo,Supporting
+2089,t0536,Regé-Jean Page,Supporting
+2090,t0536,Awkwafina,Supporting
+2091,t0537,Millie Bobby Brown,Lead
+2092,t0537,Nawazuddin Siddiqui,Supporting
+2093,t0538,Javier Bardem,Lead
+2094,t0538,Mahershala Ali,Lead
+2095,t0538,Michael B. Jordan,Supporting
+2096,t0538,Deepika Padukone,Supporting
+2097,t0539,Priyanka Chopra,Lead
+2098,t0539,Tom Hanks,Supporting
+2099,t0540,Florence Pugh,Lead
+2100,t0540,Awkwafina,Supporting
+2101,t0540,Lee Jung-jae,Supporting
+2102,t0540,Denzel Washington,Supporting
+2103,t0540,Priyanka Chopra,Lead
+2104,t0540,Idris Elba,Supporting
+2105,t0541,Florence Pugh,Supporting
+2106,t0541,Pedro Pascal,Supporting
+2107,t0541,Tessa Thompson,Lead
+2108,t0541,Cate Blanchett,Supporting
+2109,t0541,Penélope Cruz,Lead
+2110,t0541,Regé-Jean Page,Lead
+2111,t0542,Zendaya,Supporting
+2112,t0542,Tom Hanks,Supporting
+2113,t0543,Regé-Jean Page,Lead
+2114,t0543,Marion Cotillard,Supporting
+2115,t0543,Tom Hanks,Supporting
+2116,t0544,Mahershala Ali,Supporting
+2117,t0544,Idris Elba,Lead
+2118,t0544,Penélope Cruz,Lead
+2119,t0545,Marion Cotillard,Supporting
+2120,t0545,Millie Bobby Brown,Lead
+2121,t0545,Saoirse Ronan,Supporting
+2122,t0545,Mahershala Ali,Supporting
+2123,t0545,Nawazuddin Siddiqui,Lead
+2124,t0546,Javier Bardem,Supporting
+2125,t0546,Song Kang-ho,Supporting
+2126,t0546,Cate Blanchett,Supporting
+2127,t0546,Deepika Padukone,Supporting
+2128,t0547,Adam Driver,Supporting
+2129,t0547,Viola Davis,Supporting
+2130,t0547,Florence Pugh,Supporting
+2131,t0547,Lupita Nyong'o,Supporting
+2132,t0547,Rami Malek,Supporting
+2133,t0547,Song Kang-ho,Supporting
+2134,t0548,Lupita Nyong'o,Supporting
+2135,t0548,Rami Malek,Lead
+2136,t0548,Ken Watanabe,Lead
+2137,t0548,Regé-Jean Page,Lead
+2138,t0549,Viola Davis,Supporting
+2139,t0549,Song Kang-ho,Supporting
+2140,t0549,Penélope Cruz,Lead
+2141,t0550,Aishwarya Rai,Supporting
+2142,t0550,Tom Hanks,Lead
+2143,t0550,Michael B. Jordan,Lead
+2144,t0550,Meryl Streep,Supporting
+2145,t0550,Anya Taylor-Joy,Supporting
+2146,t0550,Zendaya,Supporting
+2147,t0551,Priyanka Chopra,Supporting
+2148,t0551,Millie Bobby Brown,Supporting
+2149,t0551,Rami Malek,Supporting
+2150,t0551,Pedro Pascal,Supporting
+2151,t0551,Viola Davis,Supporting
+2152,t0551,Denzel Washington,Supporting
+2153,t0552,Aishwarya Rai,Supporting
+2154,t0552,Timothée Chalamet,Supporting
+2155,t0552,Anya Taylor-Joy,Supporting
+2156,t0552,Tessa Thompson,Lead
+2157,t0552,Cate Blanchett,Lead
+2158,t0552,Mahershala Ali,Lead
+2159,t0553,Zendaya,Lead
+2160,t0553,Lupita Nyong'o,Supporting
+2161,t0553,Ken Watanabe,Supporting
+2162,t0553,Adam Driver,Lead
+2163,t0554,Priyanka Chopra,Supporting
+2164,t0554,Meryl Streep,Supporting
+2165,t0555,Lupita Nyong'o,Supporting
+2166,t0555,Song Kang-ho,Supporting
+2167,t0555,Shah Rukh Khan,Supporting
+2168,t0555,Emma Stone,Lead
+2169,t0555,Timothée Chalamet,Supporting
+2170,t0555,Aishwarya Rai,Lead
+2171,t0556,Viola Davis,Lead
+2172,t0556,Tessa Thompson,Supporting
+2173,t0556,Aishwarya Rai,Supporting
+2174,t0556,Javier Bardem,Lead
+2175,t0556,Meryl Streep,Lead
+2176,t0557,Awkwafina,Supporting
+2177,t0557,Adam Driver,Supporting
+2178,t0557,Anya Taylor-Joy,Lead
+2179,t0557,Marion Cotillard,Lead
+2180,t0557,Penélope Cruz,Supporting
+2181,t0557,Florence Pugh,Supporting
+2182,t0558,Penélope Cruz,Supporting
+2183,t0558,Shah Rukh Khan,Supporting
+2184,t0558,Timothée Chalamet,Supporting
+2185,t0559,Michael B. Jordan,Lead
+2186,t0559,Mahershala Ali,Supporting
+2187,t0559,Marion Cotillard,Supporting
+2188,t0560,Denzel Washington,Supporting
+2189,t0560,Tom Hanks,Supporting
+2190,t0560,Ryan Gosling,Lead
+2191,t0560,Saoirse Ronan,Supporting
+2192,t0561,Lee Jung-jae,Lead
+2193,t0561,Idris Elba,Supporting
+2194,t0561,Priyanka Chopra,Supporting
+2195,t0561,Millie Bobby Brown,Supporting
+2196,t0561,Lupita Nyong'o,Supporting
+2197,t0561,Saoirse Ronan,Supporting
+2198,t0562,Ken Watanabe,Supporting
+2199,t0562,Adam Driver,Supporting
+2200,t0562,Cate Blanchett,Lead
+2201,t0563,Cate Blanchett,Supporting
+2202,t0563,Lupita Nyong'o,Lead
+2203,t0564,Shah Rukh Khan,Supporting
+2204,t0564,Mahershala Ali,Supporting
+2205,t0564,Penélope Cruz,Lead
+2206,t0564,Jason Momoa,Supporting
+2207,t0564,Idris Elba,Lead
+2208,t0564,Lee Jung-jae,Supporting
+2209,t0565,Shah Rukh Khan,Supporting
+2210,t0565,Awkwafina,Lead
+2211,t0566,Meryl Streep,Supporting
+2212,t0566,Oscar Isaac,Lead
+2213,t0566,Lee Jung-jae,Lead
+2214,t0566,Ryan Gosling,Supporting
+2215,t0566,Adam Driver,Supporting
+2216,t0567,Priyanka Chopra,Lead
+2217,t0567,Shah Rukh Khan,Lead
+2218,t0567,Penélope Cruz,Supporting
+2219,t0567,Marion Cotillard,Lead
+2220,t0567,Tessa Thompson,Supporting
+2221,t0568,Priyanka Chopra,Supporting
+2222,t0568,Pedro Pascal,Supporting
+2223,t0568,Oscar Isaac,Supporting
+2224,t0568,Tessa Thompson,Supporting
+2225,t0569,Rami Malek,Supporting
+2226,t0569,Adam Driver,Supporting
+2227,t0570,Zendaya,Supporting
+2228,t0570,Gong Yoo,Supporting
+2229,t0570,Shah Rukh Khan,Supporting
+2230,t0570,Bae Doona,Supporting
+2231,t0570,Michael B. Jordan,Supporting
+2232,t0571,Tessa Thompson,Supporting
+2233,t0571,Deepika Padukone,Lead
+2234,t0571,Bae Doona,Supporting
+2235,t0571,Ryan Gosling,Supporting
+2236,t0572,Zendaya,Lead
+2237,t0572,Idris Elba,Lead
+2238,t0572,Denzel Washington,Supporting
+2239,t0572,Saoirse Ronan,Supporting
+2240,t0573,Timothée Chalamet,Lead
+2241,t0573,Song Kang-ho,Supporting
+2242,t0574,Bae Doona,Supporting
+2243,t0574,Emma Stone,Supporting
+2244,t0574,Michael B. Jordan,Supporting
+2245,t0574,,Supporting
+2246,t0574,Lee Jung-jae,Lead
+2247,t0575,Millie Bobby Brown,Supporting
+2248,t0575,Javier Bardem,Supporting
+2249,t0575,Gong Yoo,Supporting
+2250,t0576,Bae Doona,Supporting
+2251,t0576,Marion Cotillard,Supporting
+2252,t0576,Penélope Cruz,Supporting
+2253,t0576,Gal Gadot,Supporting
+2254,t0577,John Boyega,Supporting
+2255,t0577,Nawazuddin Siddiqui,Lead
+2256,t0577,Cate Blanchett,Supporting
+2257,t0578,Javier Bardem,Supporting
+2258,t0578,Oscar Isaac,Supporting
+2259,t0578,Gal Gadot,Supporting
+2260,t0578,Timothée Chalamet,Supporting
+2261,t0579,Jason Momoa,Supporting
+2262,t0579,Rami Malek,Supporting
+2263,t0579,Oscar Isaac,Supporting
+2264,t0579,Deepika Padukone,Supporting
+2265,t0579,Aishwarya Rai,Supporting
+2266,t0579,Viola Davis,Supporting
+2267,t0580,Gong Yoo,Lead
+2268,t0580,Oscar Isaac,Supporting
+2269,t0580,Bae Doona,Lead
+2270,t0580,Viola Davis,Supporting
+2271,t0581,Penélope Cruz,Supporting
+2272,t0581,John Boyega,Lead
+2273,t0581,Gal Gadot,Lead
+2274,t0581,Lee Jung-jae,Supporting
+2275,t0581,Deepika Padukone,Supporting
+2276,t0581,Shah Rukh Khan,Lead
+2277,t0582,Priyanka Chopra,Lead
+2278,t0582,John Boyega,Supporting
+2279,t0582,Zendaya,Supporting
+2280,t0583,Rami Malek,Supporting
+2281,t0583,Zendaya,Lead
+2282,t0584,Millie Bobby Brown,Lead
+2283,t0584,Anya Taylor-Joy,Lead
+2284,t0585,Awkwafina,Supporting
+2285,t0585,Meryl Streep,Lead
+2286,t0585,Viola Davis,Supporting
+2287,t0585,Regé-Jean Page,Lead
+2288,t0585,Jason Momoa,Supporting
+2289,t0585,Millie Bobby Brown,Supporting
+2290,t0586,Deepika Padukone,Lead
+2291,t0586,Florence Pugh,Supporting
+2292,t0586,Priyanka Chopra,Supporting
+2293,t0586,Lupita Nyong'o,Supporting
+2294,t0587,Adam Driver,Supporting
+2295,t0587,Ken Watanabe,Supporting
+2296,t0588,Lee Jung-jae,Lead
+2297,t0588,Deepika Padukone,Lead
+2298,t0589,Jason Momoa,Supporting
+2299,t0589,Aishwarya Rai,Lead
+2300,t0589,Zendaya,Supporting
+2301,t0589,Millie Bobby Brown,Lead
+2302,t0589,Gal Gadot,Supporting
+2303,t0590,Saoirse Ronan,Lead
+2304,t0590,Regé-Jean Page,Supporting
+2305,t0590,Rami Malek,Supporting
+2306,t0591,Pedro Pascal,Supporting
+2307,t0591,Gong Yoo,Supporting
+2308,t0592,Marion Cotillard,Lead
+2309,t0592,Priyanka Chopra,Supporting
+2310,t0592,Lee Jung-jae,Lead
+2311,t0592,Saoirse Ronan,Supporting
+2312,t0592,Pedro Pascal,Supporting
+2313,t0593,Pedro Pascal,Supporting
+2314,t0593,Gal Gadot,Supporting
+2315,t0594,John Boyega,Supporting
+2316,t0594,Nawazuddin Siddiqui,Supporting
+2317,t0594,Emma Stone,Supporting
+2318,t0594,Meryl Streep,Supporting
+2319,t0595,Timothée Chalamet,Supporting
+2320,t0595,Idris Elba,Lead
+2321,t0595,Denzel Washington,Supporting
+2322,t0595,Shah Rukh Khan,Supporting
+2323,t0596,Gong Yoo,Lead
+2324,t0596,Idris Elba,Lead
+2325,t0596,Javier Bardem,Lead
+2326,t0597,Meryl Streep,Supporting
+2327,t0597,Marion Cotillard,Supporting
+2328,t0598,Mahershala Ali,Supporting
+2329,t0598,Penélope Cruz,Supporting
+2330,t0598,Cate Blanchett,Supporting
+2331,t0599,Oscar Isaac,Lead
+2332,t0599,Gong Yoo,Supporting
+2333,t0599,John Boyega,Supporting
+2334,t0599,Meryl Streep,Supporting
+2335,t0600,Ken Watanabe,Supporting
+2336,t0600,John Boyega,Supporting
+2337,t0600,Aishwarya Rai,Supporting
+2338,t0600,Mahershala Ali,Supporting
+2339,t0601,Lee Jung-jae,Supporting
+2340,t0601,Denzel Washington,Lead
+2341,t0601,Ken Watanabe,Supporting
+2342,t0601,Song Kang-ho,Supporting
+2343,t0601,Tessa Thompson,Supporting
+2344,t0601,Regé-Jean Page,Lead
+2345,t0602,Idris Elba,Lead
+2346,t0602,Adam Driver,Supporting
+2347,t0602,Penélope Cruz,Supporting
+2348,t0602,Gal Gadot,Supporting
+2349,t0602,Regé-Jean Page,Supporting
+2350,t0603,Meryl Streep,Supporting
+2351,t0603,Awkwafina,Supporting
+2352,t0603,Tessa Thompson,Supporting
+2353,t0603,Oscar Isaac,Supporting
+2354,t0603,Florence Pugh,Supporting
+2355,t0604,Marion Cotillard,Lead
+2356,t0604,Penélope Cruz,Supporting
+2357,t0604,Millie Bobby Brown,Supporting
+2358,t0604,John Boyega,Supporting
+2359,t0605,Ken Watanabe,Supporting
+2360,t0605,Tom Hanks,Supporting
+2361,t0606,Aishwarya Rai,Supporting
+2362,t0606,Anya Taylor-Joy,Supporting
+2363,t0606,Millie Bobby Brown,Supporting
+2364,t0606,Lupita Nyong'o,Supporting
+2365,t0606,Marion Cotillard,Supporting
+2366,t0606,Javier Bardem,Supporting
+2367,t0607,Zendaya,Supporting
+2368,t0607,Michael B. Jordan,Supporting
+2369,t0607,Meryl Streep,Supporting
+2370,t0607,Gong Yoo,Supporting
+2371,t0607,Pedro Pascal,Supporting
+2372,t0607,Oscar Isaac,Supporting
+2373,t0608,Ken Watanabe,Supporting
+2374,t0608,Deepika Padukone,Supporting
+2375,t0608,Lupita Nyong'o,Supporting
+2376,t0608,Mahershala Ali,Supporting
+2377,t0608,Denzel Washington,Supporting
+2378,t0608,Penélope Cruz,Lead
+2379,t0609,Denzel Washington,Lead
+2380,t0609,Florence Pugh,Supporting
+2381,t0609,Timothée Chalamet,Supporting
+2382,t0609,Tom Hanks,Supporting
+2383,t0609,Javier Bardem,Supporting
+2384,t0610,Javier Bardem,Supporting
+2385,t0610,Tessa Thompson,Supporting
+2386,t0610,Viola Davis,Supporting
+2387,t0610,Timothée Chalamet,Supporting
+2388,t0611,Lee Jung-jae,Supporting
+2389,t0611,Bae Doona,Supporting
+2390,t0611,Regé-Jean Page,Supporting
+2391,t0612,John Boyega,Lead
+2392,t0612,Adam Driver,Supporting
+2393,t0612,Song Kang-ho,Lead
+2394,t0612,Nawazuddin Siddiqui,Supporting
+2395,t0612,Priyanka Chopra,Supporting
+2396,t0612,Cate Blanchett,Lead
+2397,t0613,Zendaya,Lead
+2398,t0613,Lupita Nyong'o,Supporting
+2399,t0613,John Boyega,Supporting
+2400,t0613,Anya Taylor-Joy,Lead
+2401,t0614,Zendaya,Supporting
+2402,t0614,Ken Watanabe,Supporting
+2403,t0614,Cate Blanchett,Lead
+2404,t0614,Song Kang-ho,Supporting
+2405,t0615,Penélope Cruz,Supporting
+2406,t0615,Song Kang-ho,Supporting
+2407,t0615,Tom Hanks,Supporting
+2408,t0616,Idris Elba,Supporting
+2409,t0616,Jason Momoa,Supporting
+2410,t0616,Gal Gadot,Lead
+2411,t0616,Penélope Cruz,Supporting
+2412,t0616,Oscar Isaac,Supporting
+2413,t0617,Javier Bardem,Supporting
+2414,t0617,Cate Blanchett,Supporting
+2415,t0617,Anya Taylor-Joy,Supporting
+2416,t0617,Idris Elba,Supporting
+2417,t0617,Shah Rukh Khan,Lead
+2418,t0618,Timothée Chalamet,Lead
+2419,t0618,Marion Cotillard,Supporting
+2420,t0618,Florence Pugh,Supporting
+2421,t0619,Adam Driver,Lead
+2422,t0619,Ken Watanabe,Supporting
+2423,t0619,Marion Cotillard,Lead
+2424,t0619,Penélope Cruz,Supporting
+2425,t0619,Anya Taylor-Joy,Lead
+2426,t0620,Marion Cotillard,Supporting
+2427,t0620,Idris Elba,Supporting
+2428,t0621,Viola Davis,Supporting
+2429,t0621,Gong Yoo,Lead
+2430,t0621,Timothée Chalamet,Supporting
+2431,t0621,Cate Blanchett,Supporting
+2432,t0621,Emma Stone,Lead
+2433,t0622,Mahershala Ali,Lead
+2434,t0622,Viola Davis,Supporting
+2435,t0623,John Boyega,Supporting
+2436,t0623,Gong Yoo,Supporting
+2437,t0624,Penélope Cruz,Lead
+2438,t0624,Song Kang-ho,Lead
+2439,t0624,Emma Stone,Supporting
+2440,t0624,Meryl Streep,Supporting
+2441,t0624,Ken Watanabe,Supporting
+2442,t0624,Tessa Thompson,Lead
+2443,t0625,Tom Hanks,Lead
+2444,t0625,Ken Watanabe,Supporting
+2445,t0625,Mahershala Ali,Supporting
+2446,t0625,Tessa Thompson,Lead
+2447,t0626,Jason Momoa,Lead
+2448,t0626,Saoirse Ronan,Supporting
+2449,t0626,Lee Jung-jae,Lead
+2450,t0626,Nawazuddin Siddiqui,Supporting
+2451,t0626,Priyanka Chopra,Lead
+2452,t0627,Gal Gadot,Lead
+2453,t0627,Viola Davis,Supporting
+2454,t0627,Shah Rukh Khan,Lead
+2455,t0627,Florence Pugh,Supporting
+2456,t0627,Priyanka Chopra,Supporting
+2457,t0628,Aishwarya Rai,Supporting
+2458,t0628,Lee Jung-jae,Lead
+2459,t0628,Penélope Cruz,Supporting
+2460,t0629,John Boyega,Supporting
+2461,t0629,Deepika Padukone,Supporting
+2462,t0629,Aishwarya Rai,Lead
+2463,t0630,Lee Jung-jae,Lead
+2464,t0630,Pedro Pascal,Supporting
+2465,t0630,Idris Elba,Supporting
+2466,t0630,Millie Bobby Brown,Lead
+2467,t0630,Priyanka Chopra,Supporting
+2468,t0631,Tessa Thompson,Supporting
+2469,t0631,Jason Momoa,Lead
+2470,t0631,Cate Blanchett,Supporting
+2471,t0632,Timothée Chalamet,Supporting
+2472,t0632,Oscar Isaac,Supporting
+2473,t0632,Anya Taylor-Joy,Supporting
+2474,t0632,Gong Yoo,Supporting
+2475,t0633,Aishwarya Rai,Lead
+2476,t0633,Priyanka Chopra,Lead
+2477,t0634,Tessa Thompson,Lead
+2478,t0634,Penélope Cruz,Lead
+2479,t0634,Emma Stone,Lead
+2480,t0634,Anya Taylor-Joy,Supporting
+2481,t0634,Pedro Pascal,Supporting
+2482,t0634,Zendaya,Lead
+2483,t0635,Millie Bobby Brown,Supporting
+2484,t0635,Lupita Nyong'o,Supporting
+2485,t0635,Florence Pugh,Lead
+2486,t0635,Ken Watanabe,Supporting
+2487,t0635,Tom Hanks,Supporting
+2488,t0635,Zendaya,Lead
+2489,t0636,Pedro Pascal,Lead
+2490,t0636,Rami Malek,Supporting
+2491,t0637,Zendaya,Supporting
+2492,t0637,Idris Elba,Supporting
+2493,t0637,Viola Davis,Supporting
+2494,t0637,Ken Watanabe,Supporting
+2495,t0638,Regé-Jean Page,Supporting
+2496,t0638,Deepika Padukone,Supporting
+2497,t0638,Bae Doona,Lead
+2498,t0638,Denzel Washington,Supporting
+2499,t0638,Marion Cotillard,Supporting
+2500,t0639,,Supporting
+2501,t0639,Awkwafina,Supporting
+2502,t0639,Denzel Washington,Supporting
+2503,t0639,Lee Jung-jae,Supporting
+2504,t0639,Idris Elba,Supporting
+2505,t0639,Zendaya,Supporting
+2506,t0640,Pedro Pascal,Supporting
+2507,t0640,Regé-Jean Page,Supporting
+2508,t0641,Michael B. Jordan,Supporting
+2509,t0641,Penélope Cruz,Supporting
+2510,t0641,Millie Bobby Brown,Supporting
+2511,t0641,Priyanka Chopra,Supporting
+2512,t0641,Ken Watanabe,Supporting
+2513,t0641,Denzel Washington,Supporting
+2514,t0642,Anya Taylor-Joy,Supporting
+2515,t0642,Regé-Jean Page,Supporting
+2516,t0642,Gal Gadot,Supporting
+2517,t0642,Lee Jung-jae,Lead
+2518,t0643,Penélope Cruz,Lead
+2519,t0643,Adam Driver,Supporting
+2520,t0643,Oscar Isaac,Supporting
+2521,t0643,Song Kang-ho,Supporting
+2522,t0644,Florence Pugh,Supporting
+2523,t0644,Viola Davis,Supporting
+2524,t0644,Zendaya,Lead
+2525,t0644,Jason Momoa,Supporting
+2526,t0644,Adam Driver,Supporting
+2527,t0644,John Boyega,Supporting
+2528,t0645,Shah Rukh Khan,Supporting
+2529,t0645,Viola Davis,Supporting
+2530,t0645,Lee Jung-jae,Supporting
+2531,t0646,Saoirse Ronan,Lead
+2532,t0646,Penélope Cruz,Lead
+2533,t0647,John Boyega,Lead
+2534,t0647,Song Kang-ho,Supporting
+2535,t0647,Regé-Jean Page,Supporting
+2536,t0647,Oscar Isaac,Supporting
+2537,t0647,Zendaya,Lead
+2538,t0648,Awkwafina,Supporting
+2539,t0648,Gong Yoo,Supporting
+2540,t0648,John Boyega,Lead
+2541,t0648,Regé-Jean Page,Supporting
+2542,t0648,Bae Doona,Supporting
+2543,t0649,Ken Watanabe,Supporting
+2544,t0649,Song Kang-ho,Supporting
+2545,t0649,Awkwafina,Lead
+2546,t0649,Gal Gadot,Supporting
+2547,t0649,Penélope Cruz,Supporting
+2548,t0649,Aishwarya Rai,Supporting
+2549,t0650,Rami Malek,Supporting
+2550,t0650,Timothée Chalamet,Supporting
+2551,t0650,Regé-Jean Page,Supporting
+2552,t0650,Shah Rukh Khan,Lead
+2553,t0650,Mahershala Ali,Supporting
+2554,t0650,Tom Hanks,Lead
+2555,t0651,Adam Driver,Supporting
+2556,t0651,Priyanka Chopra,Supporting
+2557,t0651,Saoirse Ronan,Supporting
+2558,t0651,Tom Hanks,Lead
+2559,t0652,Pedro Pascal,Lead
+2560,t0652,Aishwarya Rai,Supporting
+2561,t0652,Ken Watanabe,Lead
+2562,t0652,Lee Jung-jae,Supporting
+2563,t0652,Bae Doona,Lead
+2564,t0653,Adam Driver,Supporting
+2565,t0653,Jason Momoa,Lead
+2566,t0653,Priyanka Chopra,Lead
+2567,t0653,Zendaya,Supporting
+2568,t0654,Adam Driver,Supporting
+2569,t0654,Gal Gadot,Lead
+2570,t0654,Shah Rukh Khan,Lead
+2571,t0655,Javier Bardem,Supporting
+2572,t0655,Priyanka Chopra,Supporting
+2573,t0656,Deepika Padukone,Supporting
+2574,t0656,Oscar Isaac,Supporting
+2575,t0656,Tessa Thompson,Lead
+2576,t0657,Aishwarya Rai,Supporting
+2577,t0657,Tom Hanks,Supporting
+2578,t0658,Nawazuddin Siddiqui,Supporting
+2579,t0658,Denzel Washington,Supporting
+2580,t0658,Ken Watanabe,Supporting
+2581,t0659,Jason Momoa,Lead
+2582,t0659,Awkwafina,Supporting
+2583,t0659,Timothée Chalamet,Supporting
+2584,t0659,Florence Pugh,Supporting
+2585,t0659,Aishwarya Rai,Supporting
+2586,t0659,Rami Malek,Supporting
+2587,t0660,Tessa Thompson,Supporting
+2588,t0660,Regé-Jean Page,Supporting
+2589,t0660,Lupita Nyong'o,Lead
+2590,t0660,Florence Pugh,Lead
+2591,t0660,Idris Elba,Lead
+2592,t0661,Javier Bardem,Supporting
+2593,t0661,John Boyega,Supporting
+2594,t0661,Tom Hanks,Supporting
+2595,t0661,Gal Gadot,Supporting
+2596,t0662,Jason Momoa,Supporting
+2597,t0662,Zendaya,Supporting
+2598,t0662,Penélope Cruz,Supporting
+2599,t0662,Idris Elba,Supporting
+2600,t0662,Ryan Gosling,Lead
+2601,t0662,Lupita Nyong'o,Supporting
+2602,t0663,Marion Cotillard,Supporting
+2603,t0663,Regé-Jean Page,Supporting
+2604,t0663,Penélope Cruz,Supporting
+2605,t0663,Tom Hanks,Lead
+2606,t0663,Anya Taylor-Joy,Lead
+2607,t0664,John Boyega,Lead
+2608,t0664,Ken Watanabe,Supporting
+2609,t0664,Bae Doona,Supporting
+2610,t0664,Meryl Streep,Lead
+2611,t0665,Anya Taylor-Joy,Supporting
+2612,t0665,Idris Elba,Supporting
+2613,t0665,Florence Pugh,Supporting
+2614,t0665,Oscar Isaac,Supporting
+2615,t0666,Shah Rukh Khan,Supporting
+2616,t0666,Deepika Padukone,Supporting
+2617,t0666,Jason Momoa,Supporting
+2618,t0667,Penélope Cruz,Supporting
+2619,t0667,Denzel Washington,Supporting
+2620,t0667,Cate Blanchett,Supporting
+2621,t0667,Mahershala Ali,Supporting
+2622,t0668,Deepika Padukone,Supporting
+2623,t0668,Awkwafina,Supporting
+2624,t0668,Gong Yoo,Supporting
+2625,t0669,Viola Davis,Supporting
+2626,t0669,Shah Rukh Khan,Lead
+2627,t0669,Jason Momoa,Lead
+2628,t0669,Florence Pugh,Supporting
+2629,t0669,Ryan Gosling,Supporting
+2630,t0669,Pedro Pascal,Supporting
+2631,t0670,Emma Stone,Supporting
+2632,t0670,Idris Elba,Lead
+2633,t0670,Awkwafina,Supporting
+2634,t0671,Viola Davis,Supporting
+2635,t0671,Shah Rukh Khan,Lead
+2636,t0671,Rami Malek,Supporting
+2637,t0671,Song Kang-ho,Supporting
+2638,t0671,Regé-Jean Page,Supporting
+2639,t0672,Regé-Jean Page,Lead
+2640,t0672,Lupita Nyong'o,Supporting
+2641,t0672,Ryan Gosling,Lead
+2642,t0672,Millie Bobby Brown,Lead
+2643,t0673,Idris Elba,Supporting
+2644,t0673,Song Kang-ho,Supporting
+2645,t0674,Priyanka Chopra,Supporting
+2646,t0674,Meryl Streep,Supporting
+2647,t0674,Ryan Gosling,Lead
+2648,t0674,Viola Davis,Supporting
+2649,t0675,Idris Elba,Lead
+2650,t0675,Gong Yoo,Lead
+2651,t0675,Penélope Cruz,Supporting
+2652,t0675,Ryan Gosling,Lead
+2653,t0676,Shah Rukh Khan,Lead
+2654,t0676,Idris Elba,Supporting
+2655,t0676,Pedro Pascal,Lead
+2656,t0677,Emma Stone,Supporting
+2657,t0677,Viola Davis,Supporting
+2658,t0678,Mahershala Ali,Supporting
+2659,t0678,Deepika Padukone,Supporting
+2660,t0678,Oscar Isaac,Lead
+2661,t0678,Emma Stone,Supporting
+2662,t0679,Rami Malek,Supporting
+2663,t0679,Pedro Pascal,Lead
+2664,t0679,Gong Yoo,Lead
+2665,t0679,Timothée Chalamet,Supporting
+2666,t0679,Bae Doona,Supporting
+2667,t0679,Mahershala Ali,Lead
+2668,t0680,Marion Cotillard,Supporting
+2669,t0680,Meryl Streep,Lead
+2670,t0680,Tessa Thompson,Supporting
+2671,t0680,Javier Bardem,Supporting
+2672,t0681,Anya Taylor-Joy,Supporting
+2673,t0681,Florence Pugh,Supporting
+2674,t0681,Aishwarya Rai,Lead
+2675,t0682,Michael B. Jordan,Supporting
+2676,t0682,Idris Elba,Supporting
+2677,t0683,Bae Doona,Lead
+2678,t0683,Florence Pugh,Supporting
+2679,t0683,Regé-Jean Page,Lead
+2680,t0683,Idris Elba,Supporting
+2681,t0683,Aishwarya Rai,Supporting
+2682,t0683,Awkwafina,Supporting
+2683,t0684,Gal Gadot,Supporting
+2684,t0684,Pedro Pascal,Supporting
+2685,t0684,Rami Malek,Lead
+2686,t0684,Ken Watanabe,Lead
+2687,t0684,Song Kang-ho,Supporting
+2688,t0684,Zendaya,Supporting
+2689,t0685,Denzel Washington,Lead
+2690,t0685,Bae Doona,Supporting
+2691,t0685,Ryan Gosling,Supporting
+2692,t0685,Penélope Cruz,Lead
+2693,t0686,Timothée Chalamet,Supporting
+2694,t0686,Viola Davis,Supporting
+2695,t0687,Shah Rukh Khan,Supporting
+2696,t0687,Millie Bobby Brown,Supporting
+2697,t0687,Tom Hanks,Lead
+2698,t0687,Awkwafina,Lead
+2699,t0688,Michael B. Jordan,Supporting
+2700,t0688,Zendaya,Supporting
+2701,t0688,Javier Bardem,Supporting
+2702,t0688,Pedro Pascal,Supporting
+2703,t0688,Priyanka Chopra,Lead
+2704,t0688,Oscar Isaac,Supporting
+2705,t0689,Adam Driver,Lead
+2706,t0689,Ken Watanabe,Supporting
+2707,t0689,Gong Yoo,Lead
+2708,t0690,Shah Rukh Khan,Supporting
+2709,t0690,Anya Taylor-Joy,Supporting
+2710,t0690,Gal Gadot,Supporting
+2711,t0691,Cate Blanchett,Supporting
+2712,t0691,Penélope Cruz,Supporting
+2713,t0692,Lupita Nyong'o,Supporting
+2714,t0692,Javier Bardem,Supporting
+2715,t0692,Meryl Streep,Supporting
+2716,t0692,Regé-Jean Page,Supporting
+2717,t0692,Marion Cotillard,Supporting
+2718,t0692,Ken Watanabe,Lead
+2719,t0693,Ryan Gosling,Supporting
+2720,t0693,Regé-Jean Page,Supporting
+2721,t0693,Florence Pugh,Lead
+2722,t0693,Tom Hanks,Supporting
+2723,t0693,Gong Yoo,Supporting
+2724,t0693,Song Kang-ho,Supporting
+2725,t0694,Meryl Streep,Supporting
+2726,t0694,Tessa Thompson,Supporting
+2727,t0694,Timothée Chalamet,Supporting
+2728,t0694,Ken Watanabe,Supporting
+2729,t0695,Ryan Gosling,Supporting
+2730,t0695,Mahershala Ali,Supporting
+2731,t0696,Timothée Chalamet,Lead
+2732,t0696,Michael B. Jordan,Supporting
+2733,t0696,Awkwafina,Supporting
+2734,t0697,Bae Doona,Supporting
+2735,t0697,Marion Cotillard,Supporting
+2736,t0697,Mahershala Ali,Supporting
+2737,t0697,Aishwarya Rai,Supporting
+2738,t0698,Oscar Isaac,Supporting
+2739,t0698,Lee Jung-jae,Supporting
+2740,t0698,Song Kang-ho,Supporting
+2741,t0699,Penélope Cruz,Supporting
+2742,t0699,Emma Stone,Lead
+2743,t0699,Idris Elba,Lead
+2744,t0699,Ryan Gosling,Supporting
+2745,t0700,Viola Davis,Supporting
+2746,t0700,Meryl Streep,Supporting
+2747,t0700,Oscar Isaac,Supporting
+2748,t0701,Song Kang-ho,Lead
+2749,t0701,Ken Watanabe,Lead
+2750,t0701,Emma Stone,Supporting
+2751,t0701,Meryl Streep,Lead
+2752,t0701,Tom Hanks,Lead
+2753,t0701,Anya Taylor-Joy,Lead
+2754,t0702,Bae Doona,Lead
+2755,t0702,Anya Taylor-Joy,Supporting
+2756,t0702,Nawazuddin Siddiqui,Supporting
+2757,t0702,Michael B. Jordan,Supporting
+2758,t0702,Tessa Thompson,Lead
+2759,t0703,Ken Watanabe,Supporting
+2760,t0703,Florence Pugh,Supporting
+2761,t0703,Song Kang-ho,Lead
+2762,t0703,Gal Gadot,Supporting
+2763,t0703,Denzel Washington,Supporting
+2764,t0704,Regé-Jean Page,Lead
+2765,t0704,Ryan Gosling,Supporting
+2766,t0704,Oscar Isaac,Lead
+2767,t0704,Idris Elba,Supporting
+2768,t0704,Aishwarya Rai,Supporting
+2769,t0705,Tom Hanks,Supporting
+2770,t0705,Meryl Streep,Supporting
+2771,t0705,Zendaya,Supporting
+2772,t0705,Gong Yoo,Supporting
+2773,t0705,Adam Driver,Supporting
+2774,t0706,Millie Bobby Brown,Supporting
+2775,t0706,Priyanka Chopra,Supporting
+2776,t0706,Ken Watanabe,Lead
+2777,t0706,Awkwafina,Supporting
+2778,t0706,Viola Davis,Supporting
+2779,t0706,Idris Elba,Supporting
+2780,t0707,Oscar Isaac,Supporting
+2781,t0707,Timothée Chalamet,Lead
+2782,t0707,Cate Blanchett,Supporting
+2783,t0707,Song Kang-ho,Supporting
+2784,t0707,Penélope Cruz,Supporting
+2785,t0707,Anya Taylor-Joy,Supporting
+2786,t0708,Priyanka Chopra,Supporting
+2787,t0708,Anya Taylor-Joy,Lead
+2788,t0708,Rami Malek,Supporting
+2789,t0708,Awkwafina,Supporting
+2790,t0709,Deepika Padukone,Lead
+2791,t0709,Regé-Jean Page,Supporting
+2792,t0709,Awkwafina,Supporting
+2793,t0709,Idris Elba,Lead
+2794,t0709,Millie Bobby Brown,Supporting
+2795,t0709,Shah Rukh Khan,Lead
+2796,t0710,Nawazuddin Siddiqui,Supporting
+2797,t0710,Aishwarya Rai,Supporting
+2798,t0710,Rami Malek,Supporting
+2799,t0711,Gal Gadot,Supporting
+2800,t0711,Awkwafina,Supporting
+2801,t0712,Denzel Washington,Supporting
+2802,t0712,Jason Momoa,Supporting
+2803,t0712,Ken Watanabe,Supporting
+2804,t0712,Rami Malek,Lead
+2805,t0712,Marion Cotillard,Lead
+2806,t0712,Oscar Isaac,Supporting
+2807,t0713,Javier Bardem,Supporting
+2808,t0713,Meryl Streep,Supporting
+2809,t0713,Tom Hanks,Lead
+2810,t0713,Tessa Thompson,Lead
+2811,t0713,Awkwafina,Supporting
+2812,t0714,Michael B. Jordan,Supporting
+2813,t0714,Mahershala Ali,Supporting
+2814,t0714,Awkwafina,Supporting
+2815,t0714,Millie Bobby Brown,Lead
+2816,t0715,Florence Pugh,Supporting
+2817,t0715,Anya Taylor-Joy,Supporting
+2818,t0715,Marion Cotillard,Supporting
+2819,t0715,Deepika Padukone,Lead
+2820,t0715,Priyanka Chopra,Supporting
+2821,t0716,Viola Davis,Lead
+2822,t0716,Awkwafina,Lead
+2823,t0716,Adam Driver,Supporting
+2824,t0716,Penélope Cruz,Lead
+2825,t0716,Song Kang-ho,Lead
+2826,t0716,Millie Bobby Brown,Supporting
+2827,t0717,Meryl Streep,Lead
+2828,t0717,Saoirse Ronan,Supporting
+2829,t0717,Millie Bobby Brown,Supporting
+2830,t0717,Aishwarya Rai,Supporting
+2831,t0718,Song Kang-ho,Supporting
+2832,t0718,Timothée Chalamet,Lead
+2833,t0718,Nawazuddin Siddiqui,Supporting
+2834,t0718,Pedro Pascal,Supporting
+2835,t0719,Gong Yoo,Lead
+2836,t0719,Javier Bardem,Supporting
+2837,t0719,Rami Malek,Supporting
+2838,t0720,Aishwarya Rai,Lead
+2839,t0720,Penélope Cruz,Supporting
+2840,t0720,Emma Stone,Lead
+2841,t0721,Viola Davis,Supporting
+2842,t0721,Gong Yoo,Supporting
+2843,t0722,Shah Rukh Khan,Supporting
+2844,t0722,Oscar Isaac,Supporting
+2845,t0722,Gal Gadot,Lead
+2846,t0722,Javier Bardem,Lead
+2847,t0723,Emma Stone,Supporting
+2848,t0723,Song Kang-ho,Supporting
+2849,t0723,Aishwarya Rai,Supporting
+2850,t0723,John Boyega,Supporting
+2851,t0723,Regé-Jean Page,Supporting
+2852,t0723,Marion Cotillard,Supporting
+2853,t0724,Javier Bardem,Supporting
+2854,t0724,Song Kang-ho,Supporting
+2855,t0724,Regé-Jean Page,Supporting
+2856,t0724,Meryl Streep,Supporting
+2857,t0724,Ryan Gosling,Supporting
+2858,t0725,Adam Driver,Supporting
+2859,t0725,Lee Jung-jae,Supporting
+2860,t0726,Anya Taylor-Joy,Supporting
+2861,t0726,Tom Hanks,Lead
+2862,t0726,Saoirse Ronan,Supporting
+2863,t0726,John Boyega,Supporting
+2864,t0726,Song Kang-ho,Supporting
+2865,t0727,Timothée Chalamet,Lead
+2866,t0727,Cate Blanchett,Lead
+2867,t0727,Rami Malek,Supporting
+2868,t0728,Tom Hanks,Supporting
+2869,t0728,Anya Taylor-Joy,Supporting
+2870,t0728,Saoirse Ronan,Supporting
+2871,t0728,Song Kang-ho,Lead
+2872,t0728,Deepika Padukone,Lead
+2873,t0728,Tessa Thompson,Supporting
+2874,t0729,John Boyega,Supporting
+2875,t0729,Marion Cotillard,Supporting
+2876,t0729,Mahershala Ali,Supporting
+2877,t0729,Adam Driver,Lead
+2878,t0729,Lupita Nyong'o,Supporting
+2879,t0729,Oscar Isaac,Lead
+2880,t0730,John Boyega,Supporting
+2881,t0730,Marion Cotillard,Supporting
+2882,t0730,Tessa Thompson,Lead
+2883,t0730,Saoirse Ronan,Lead
+2884,t0730,Millie Bobby Brown,Supporting
+2885,t0730,Cate Blanchett,Supporting
+2886,t0731,Ryan Gosling,Supporting
+2887,t0731,Gal Gadot,Supporting
+2888,t0731,Timothée Chalamet,Supporting
+2889,t0731,Lee Jung-jae,Supporting
+2890,t0731,Adam Driver,Supporting
+2891,t0731,Rami Malek,Supporting
+2892,t0732,Jason Momoa,Supporting
+2893,t0732,Millie Bobby Brown,Supporting
+2894,t0732,Lupita Nyong'o,Supporting
+2895,t0732,Gal Gadot,Supporting
+2896,t0732,Adam Driver,Supporting
+2897,t0732,Mahershala Ali,Supporting
+2898,t0733,Michael B. Jordan,Supporting
+2899,t0733,Penélope Cruz,Supporting
+2900,t0733,Deepika Padukone,Supporting
+2901,t0733,Pedro Pascal,Lead
+2902,t0733,Lee Jung-jae,Supporting
+2903,t0734,Michael B. Jordan,Supporting
+2904,t0734,Penélope Cruz,Supporting
+2905,t0734,Jason Momoa,Supporting
+2906,t0735,Viola Davis,Supporting
+2907,t0735,Lee Jung-jae,Lead
+2908,t0735,Javier Bardem,Supporting
+2909,t0735,Bae Doona,Supporting
+2910,t0736,Gal Gadot,Lead
+2911,t0736,Lee Jung-jae,Supporting
+2912,t0736,Deepika Padukone,Supporting
+2913,t0737,Oscar Isaac,Supporting
+2914,t0737,Saoirse Ronan,Lead
+2915,t0737,Lee Jung-jae,Lead
+2916,t0737,Timothée Chalamet,Supporting
+2917,t0737,John Boyega,Supporting
+2918,t0738,Lupita Nyong'o,Lead
+2919,t0738,Deepika Padukone,Supporting
+2920,t0738,Marion Cotillard,Supporting
+2921,t0738,Aishwarya Rai,Supporting
+2922,t0738,Viola Davis,Lead
+2923,t0739,Ryan Gosling,Lead
+2924,t0739,Gong Yoo,Lead
+2925,t0739,Michael B. Jordan,Supporting
+2926,t0739,Emma Stone,Supporting
+2927,t0740,Anya Taylor-Joy,Supporting
+2928,t0740,Regé-Jean Page,Supporting
+2929,t0740,Saoirse Ronan,Supporting
+2930,t0740,Ken Watanabe,Supporting
+2931,t0740,Javier Bardem,Supporting
+2932,t0740,Meryl Streep,Supporting
+2933,t0741,Oscar Isaac,Supporting
+2934,t0741,Idris Elba,Supporting
+2935,t0741,Tom Hanks,Supporting
+2936,t0741,Ken Watanabe,Lead
+2937,t0742,Viola Davis,Lead
+2938,t0742,Aishwarya Rai,Supporting
+2939,t0742,Zendaya,Supporting
+2940,t0742,Emma Stone,Supporting
+2941,t0742,Millie Bobby Brown,Lead
+2942,t0743,Lupita Nyong'o,Supporting
+2943,t0743,Aishwarya Rai,Supporting
+2944,t0743,Pedro Pascal,Supporting
+2945,t0743,Ryan Gosling,Lead
+2946,t0743,Nawazuddin Siddiqui,Supporting
+2947,t0744,Bae Doona,Lead
+2948,t0744,Nawazuddin Siddiqui,Supporting
+2949,t0744,Saoirse Ronan,Supporting
+2950,t0745,Ken Watanabe,Lead
+2951,t0745,Shah Rukh Khan,Lead
+2952,t0745,Tessa Thompson,Lead
+2953,t0745,Tom Hanks,Supporting
+2954,t0745,Pedro Pascal,Lead
+2955,t0746,Cate Blanchett,Supporting
+2956,t0746,Viola Davis,Supporting
+2957,t0746,Michael B. Jordan,Supporting
+2958,t0747,Idris Elba,Supporting
+2959,t0747,Ryan Gosling,Lead
+2960,t0747,Bae Doona,Supporting
+2961,t0748,Emma Stone,Supporting
+2962,t0748,Meryl Streep,Supporting
+2963,t0748,Priyanka Chopra,Supporting
+2964,t0748,Cate Blanchett,Supporting
+2965,t0749,Priyanka Chopra,Supporting
+2966,t0749,Gal Gadot,Lead
+2967,t0749,Denzel Washington,Supporting
+2968,t0749,Javier Bardem,Supporting
+2969,t0749,Meryl Streep,Supporting
+2970,t0749,Jason Momoa,Supporting
+2971,t0750,Regé-Jean Page,Supporting
+2972,t0750,Lee Jung-jae,Supporting
+2973,t0751,Florence Pugh,Supporting
+2974,t0751,Deepika Padukone,Lead
+2975,t0751,Saoirse Ronan,Supporting
+2976,t0751,Michael B. Jordan,Supporting
+2977,t0751,Aishwarya Rai,Lead
+2978,t0752,Adam Driver,Supporting
+2979,t0752,Aishwarya Rai,Supporting
+2980,t0752,Rami Malek,Lead
+2981,t0752,Viola Davis,Lead
+2982,t0752,Gong Yoo,Supporting
+2983,t0753,Tom Hanks,Supporting
+2984,t0753,Michael B. Jordan,Supporting
+2985,t0753,Tessa Thompson,Supporting
+2986,t0754,Emma Stone,Supporting
+2987,t0754,Song Kang-ho,Supporting
+2988,t0754,Timothée Chalamet,Lead
+2989,t0754,Bae Doona,Lead
+2990,t0754,Pedro Pascal,Supporting
+2991,t0755,Mahershala Ali,Lead
+2992,t0755,Timothée Chalamet,Supporting
+2993,t0755,Zendaya,Lead
+2994,t0755,Aishwarya Rai,Supporting
+2995,t0755,Cate Blanchett,Supporting
+2996,t0755,Nawazuddin Siddiqui,Supporting
+2997,t0756,Zendaya,Lead
+2998,t0756,Penélope Cruz,Lead
+2999,t0756,Awkwafina,Supporting
+3000,t0757,Adam Driver,Supporting
+3001,t0757,Gong Yoo,Lead
+3002,t0757,Saoirse Ronan,Supporting
+3003,t0757,Rami Malek,Supporting
+3004,t0757,Viola Davis,Supporting
+3005,t0758,Adam Driver,Supporting
+3006,t0758,Cate Blanchett,Supporting
+3007,t0758,Millie Bobby Brown,Lead
+3008,t0758,Deepika Padukone,Supporting
+3009,t0758,Ken Watanabe,Supporting
+3010,t0758,Javier Bardem,Supporting
+3011,t0759,Javier Bardem,Supporting
+3012,t0759,John Boyega,Lead
+3013,t0759,Penélope Cruz,Supporting
+3014,t0760,Marion Cotillard,Lead
+3015,t0760,Regé-Jean Page,Supporting
+3016,t0760,John Boyega,Lead
+3017,t0760,Shah Rukh Khan,Supporting
+3018,t0760,Mahershala Ali,Lead
+3019,t0760,Penélope Cruz,Lead
+3020,t0761,Adam Driver,Supporting
+3021,t0761,Saoirse Ronan,Supporting
+3022,t0761,Cate Blanchett,Supporting
+3023,t0761,Meryl Streep,Supporting
+3024,t0761,Denzel Washington,Lead
+3025,t0762,Tom Hanks,Supporting
+3026,t0762,Tessa Thompson,Lead
+3027,t0762,Bae Doona,Lead
+3028,t0763,Lupita Nyong'o,Lead
+3029,t0763,John Boyega,Lead
+3030,t0763,Aishwarya Rai,Supporting
+3031,t0763,Viola Davis,Lead
+3032,t0764,Adam Driver,Lead
+3033,t0764,Millie Bobby Brown,Supporting
+3034,t0764,Saoirse Ronan,Lead
+3035,t0764,Priyanka Chopra,Supporting
+3036,t0764,Mahershala Ali,Supporting
+3037,t0765,Mahershala Ali,Supporting
+3038,t0765,Awkwafina,Supporting
+3039,t0765,Millie Bobby Brown,Supporting
+3040,t0765,Aishwarya Rai,Supporting
+3041,t0765,Javier Bardem,Supporting
+3042,t0766,Idris Elba,Supporting
+3043,t0766,Gong Yoo,Supporting
+3044,t0766,Song Kang-ho,Supporting
+3045,t0766,Lee Jung-jae,Lead
+3046,t0767,Aishwarya Rai,Supporting
+3047,t0767,Song Kang-ho,Supporting
+3048,t0767,Pedro Pascal,Supporting
+3049,t0767,Marion Cotillard,Supporting
+3050,t0768,Millie Bobby Brown,Supporting
+3051,t0768,Denzel Washington,Lead
+3052,t0768,Jason Momoa,Supporting
+3053,t0768,Aishwarya Rai,Supporting
+3054,t0768,Javier Bardem,Supporting
+3055,t0768,Lupita Nyong'o,Lead
+3056,t0769,Viola Davis,Supporting
+3057,t0769,Millie Bobby Brown,Supporting
+3058,t0769,Oscar Isaac,Supporting
+3059,t0770,Nawazuddin Siddiqui,Supporting
+3060,t0770,Javier Bardem,Supporting
+3061,t0770,Oscar Isaac,Supporting
+3062,t0770,Adam Driver,Supporting
+3063,t0771,Penélope Cruz,Lead
+3064,t0771,Javier Bardem,Lead
+3065,t0771,Zendaya,Supporting
+3066,t0771,Regé-Jean Page,Supporting
+3067,t0772,Zendaya,Lead
+3068,t0772,Regé-Jean Page,Supporting
+3069,t0772,Idris Elba,Lead
+3070,t0772,Tom Hanks,Lead
+3071,t0773,Timothée Chalamet,Supporting
+3072,t0773,Lupita Nyong'o,Supporting
+3073,t0773,Javier Bardem,Supporting
+3074,t0773,Pedro Pascal,Supporting
+3075,t0774,Awkwafina,Lead
+3076,t0774,Anya Taylor-Joy,Supporting
+3077,t0774,Lupita Nyong'o,Lead
+3078,t0774,Mahershala Ali,Supporting
+3079,t0774,Saoirse Ronan,Supporting
+3080,t0775,Meryl Streep,Supporting
+3081,t0775,Deepika Padukone,Lead
+3082,t0776,Ryan Gosling,Supporting
+3083,t0776,Song Kang-ho,Lead
+3084,t0776,Lupita Nyong'o,Lead
+3085,t0776,Florence Pugh,Supporting
+3086,t0776,Millie Bobby Brown,Supporting
+3087,t0776,Emma Stone,Supporting
+3088,t0777,Deepika Padukone,Supporting
+3089,t0777,Anya Taylor-Joy,Supporting
+3090,t0777,Ken Watanabe,Supporting
+3091,t0777,Florence Pugh,Supporting
+3092,t0777,John Boyega,Supporting
+3093,t0778,Shah Rukh Khan,Supporting
+3094,t0778,Gong Yoo,Lead
+3095,t0779,Tom Hanks,Supporting
+3096,t0779,Adam Driver,Supporting
+3097,t0779,Ryan Gosling,Lead
+3098,t0779,Oscar Isaac,Supporting
+3099,t0779,Pedro Pascal,Supporting
+3100,t0779,Deepika Padukone,Supporting
+3101,t0780,Javier Bardem,Lead
+3102,t0780,Saoirse Ronan,Supporting
+3103,t0780,Viola Davis,Supporting
+3104,t0780,Denzel Washington,Lead
+3105,t0781,Song Kang-ho,Supporting
+3106,t0781,Tessa Thompson,Supporting
+3107,t0781,Tom Hanks,Supporting
+3108,t0781,Saoirse Ronan,Supporting
+3109,t0782,Gong Yoo,Lead
+3110,t0782,Song Kang-ho,Supporting
+3111,t0782,Nawazuddin Siddiqui,Supporting
+3112,t0782,Priyanka Chopra,Supporting
+3113,t0782,Pedro Pascal,Supporting
+3114,t0783,Tom Hanks,Supporting
+3115,t0783,Penélope Cruz,Supporting
+3116,t0784,Priyanka Chopra,Supporting
+3117,t0784,Michael B. Jordan,Lead
+3118,t0784,Saoirse Ronan,Supporting
+3119,t0785,Adam Driver,Supporting
+3120,t0785,Deepika Padukone,Supporting
+3121,t0785,Penélope Cruz,Lead
+3122,t0786,Viola Davis,Supporting
+3123,t0786,Marion Cotillard,Supporting
+3124,t0787,Millie Bobby Brown,Lead
+3125,t0787,Tom Hanks,Supporting
+3126,t0787,Awkwafina,Supporting
+3127,t0787,Song Kang-ho,Supporting
+3128,t0787,Lupita Nyong'o,Supporting
+3129,t0788,Viola Davis,Supporting
+3130,t0788,Javier Bardem,Lead
+3131,t0789,Idris Elba,Lead
+3132,t0789,Timothée Chalamet,Supporting
+3133,t0789,Anya Taylor-Joy,Supporting
+3134,t0789,Regé-Jean Page,Lead
+3135,t0789,Gong Yoo,Lead
+3136,t0789,Tom Hanks,Lead
+3137,t0790,Ryan Gosling,Supporting
+3138,t0790,Meryl Streep,Supporting
+3139,t0790,Regé-Jean Page,Supporting
+3140,t0791,Song Kang-ho,Supporting
+3141,t0791,Adam Driver,Lead
+3142,t0791,Anya Taylor-Joy,Supporting
+3143,t0791,Viola Davis,Supporting
+3144,t0791,Awkwafina,Supporting
+3145,t0791,Shah Rukh Khan,Supporting
+3146,t0792,Rami Malek,Supporting
+3147,t0792,Emma Stone,Lead
+3148,t0792,Millie Bobby Brown,Supporting
+3149,t0792,Meryl Streep,Supporting
+3150,t0792,Tessa Thompson,Lead
+3151,t0792,Anya Taylor-Joy,Supporting
+3152,t0793,Lee Jung-jae,Supporting
+3153,t0793,Rami Malek,Supporting
+3154,t0794,Denzel Washington,Supporting
+3155,t0794,Anya Taylor-Joy,Lead
+3156,t0794,Adam Driver,Supporting
+3157,t0794,Awkwafina,Lead
+3158,t0794,Tessa Thompson,Lead
+3159,t0794,Zendaya,Supporting
+3160,t0795,Anya Taylor-Joy,Supporting
+3161,t0795,Ryan Gosling,Supporting
+3162,t0795,Aishwarya Rai,Supporting
+3163,t0795,Song Kang-ho,Lead
+3164,t0795,Gong Yoo,Supporting
+3165,t0795,Rami Malek,Lead
+3166,t0796,Regé-Jean Page,Supporting
+3167,t0796,Awkwafina,Supporting
+3168,t0796,Tom Hanks,Supporting
+3169,t0796,Meryl Streep,Lead
+3170,t0796,Saoirse Ronan,Supporting
+3171,t0797,Saoirse Ronan,Lead
+3172,t0797,Florence Pugh,Supporting
+3173,t0798,Zendaya,Supporting
+3174,t0798,Adam Driver,Supporting
+3175,t0799,Idris Elba,Supporting
+3176,t0799,Gal Gadot,Supporting
+3177,t0799,Priyanka Chopra,Supporting
+3178,t0799,Marion Cotillard,Lead
+3179,t0799,Mahershala Ali,Supporting
+3180,t0799,Lee Jung-jae,Supporting
+3181,t0800,Adam Driver,Supporting
+3182,t0800,Awkwafina,Supporting
+3183,t0800,Regé-Jean Page,Lead
+3184,t0800,Tessa Thompson,Supporting
+3185,t0800,Penélope Cruz,Supporting
+3186,t0016,Gong Yoo,Lead
+3187,t0016,Song Kang-ho,Lead
+3188,t0016,Denzel Washington,Lead
+3189,t0016,Javier Bardem,Supporting
+3190,t0016,Tom Hanks,Lead
+3191,t0143,Tom Hanks,Lead
+3192,t0143,Denzel Washington,Supporting
+3193,t0143,Cate Blanchett,Supporting
+3194,t0143,Oscar Isaac,Supporting
+3195,t0143,Timothée Chalamet,Supporting
+3196,t0143,Millie Bobby Brown,Supporting
