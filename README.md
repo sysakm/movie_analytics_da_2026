@@ -1,0 +1,3 @@
+# Movie Data Analytics
+
+Data Analysis project aimed at analyzing synthetic movie database dataset. Dataset consists on 5 separate tables, the analysis focuses and concrete questions laid out in `readme_notebook.ipynb` and on actionable takeaways from those questions. Analysis is performed with Python data stack (`pandas`/`numpy` and `matplotlib`/`seaborn`). This project is part of Data Analytics 2026 course.
